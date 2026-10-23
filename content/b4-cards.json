@@ -378,13 +378,16 @@
   "context": "Aquinas' formula for truth: a judgement is true when the intellect conforms to the thing. It is the classic statement of the correspondence theory. Heidegger argued that it presupposes a deeper truth as unconcealment, alētheia.",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De veritate",
+   "citation": "q. 1, a. 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org)",
+  "quote": {
+   "text": "veritas est adaequatio rei et intellectus",
+   "translation": "truth is the correspondence of thing and intellect."
+  },
   "respelling": "ah-dye-KWAH-tee-oh RAY-ee et in-tel-LEK-toos",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -1189,15 +1192,15 @@
   "context": "For Kierkegaard the moment is where time and eternity touch: the instant of decision, or of the god entering history. The Danish word means the blink of an eye. It was also the title of his last pamphlet series attacking the Danish church.",
   "person": "Kierkegaard",
   "source": {
-   "work": "Enten – Eller II",
-   "citation": "“Ligevægten mellem det Æsthetiske og Ethiske”",
+   "work": "Begrebet Angest",
+   "citation": "ch. III",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Danish Wikisource",
+  "attribution_note": "Quote checked verbatim against Søren Kierkegaards Skrifter, via Det Kgl. Biblioteks tekstportal",
   "quote": {
-   "text": "Du veed at beregne Øieblikket",
-   "translation": "You know how to calculate the moment."
+   "text": "Øieblikket er hiint Tvetydige, hvori Tiden og Evigheden berøre hinanden",
+   "translation": "The moment is that ambiguity in which time and eternity touch each other."
   },
   "respelling": "UR-yeh-blik-ket",
   "image": {
@@ -1230,15 +1233,15 @@
   "context": "In The Sickness unto Death despair is not a mood but a failure to be a self, grounded in God. One can be in despair without knowing it. Its forms are not willing to be oneself and willing desperately to be oneself; faith is its cure.",
   "person": "Kierkegaard",
   "source": {
-   "work": "Enten – Eller II",
-   "citation": "“Ligevægten mellem det Æsthetiske og Ethiske”",
+   "work": "Sygdommen til Døden",
+   "citation": "Part I, A.A",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Danish Wikisource",
+  "attribution_note": "Quote checked verbatim against Søren Kierkegaards Skrifter, via Det Kgl. Biblioteks tekstportal",
   "quote": {
-   "text": "Det viser sig altsaa, at enhver æsthetisk Livs-Anskuelse er Fortvivlelse",
-   "translation": "So it turns out that every aesthetic view of life is despair."
+   "text": "Fortvivlelse er en Sygdom i Aanden, i Selvet, og kan saaledes være et Tredobbelt",
+   "translation": "Despair is a sickness of the spirit, of the self, and so can take three forms."
   },
   "respelling": "for-TVEEV-lel-seh",
   "image": {
@@ -1575,13 +1578,16 @@
   "context": "Pascal: man is only a reed, the weakest thing in nature, but a thinking reed. A drop of water could kill him, yet he would still be nobler than the universe, because he knows he dies. Our dignity lies in thought.",
   "person": "Pascal",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Pensées",
+   "citation": "Br. 347 (Port-Royal art. XXIII)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (Port-Royal text, 2nd Desprez ed.)",
+  "quote": {
+   "text": "L'homme n'est qu'un roseau le plus faible de la nature ; mais c'est un roseau pensant.",
+   "translation": "Man is only a reed, the weakest in nature; but he is a thinking reed."
+  },
   "respelling": "roh-ZOH pahn-SAHN",
   "image": {
    "src": "img/p/pascal.webp",
@@ -1938,13 +1944,16 @@
   "context": "The Buddha taught that nothing in body or mind is a permanent self: form, feeling, perception, formations and consciousness are all impermanent. This opposes the Upanishadic ātman. Clinging to a self is the root of suffering.",
   "person": "The Buddha",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Saṁyutta Nikāya 22.59 (Pali), Anattalakkhaṇa Sutta",
+   "citation": "SN 22.59",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against SuttaCentral (Mahāsaṅgīti Pali text)",
+  "quote": {
+   "text": "Rūpaṁ, bhikkhave, anattā.",
+   "translation": "Form, monks, is not-self (Pali anattā)."
+  },
   "respelling": "ah-NAHT-mun",
   "image": {
    "src": "img/p/buddha.webp",
@@ -1976,13 +1985,16 @@
   "context": "Karma is action and the moral law by which every deed bears fruit in this life or the next. The Bhagavad Gītā teaches a way out: act according to duty but without attachment to the fruits, offering every action to the divine.",
   "person": "The Buddha · Bhagavad Gītā",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Bhagavad Gītā",
+   "citation": "2.47",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against GRETIL (Göttingen Register of Electronic Texts in Indian Languages)",
+  "quote": {
+   "text": "karmaṇy evādhikāras te mā phaleṣu kadācana",
+   "translation": "Your right is to the action alone, never to its fruits."
+  },
   "respelling": "KAR-muh",
   "image": {
    "src": "img/p/buddha.webp",

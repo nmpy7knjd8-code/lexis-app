@@ -340,13 +340,16 @@
   "context": "Can we speak of God at all? Aquinas holds that 'good' or 'wise' said of God and of creatures is neither univocal (same meaning) nor equivocal (unrelated): it is analogical, grounded in creatures' likeness to their cause. Scotus argued instead for univocity.",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Summa theologiae",
+   "citation": "I, q. 13, a. 5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org, Leonine text)",
+  "quote": {
+   "text": "Et iste modus communitatis medius est inter puram aequivocationem et simplicem univocationem.",
+   "translation": "And this mode of community lies midway between pure equivocation and simple univocity."
+  },
   "respelling": "ah-nah-LOH-gee-ah EN-tis",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -454,13 +457,16 @@
   "context": "Aquinas distinguishes synderesis, the natural habit by which we know the first principles of practical reason, such as 'good is to be done and evil avoided', from conscientia, applying them to particular acts. The word comes from a garbled Greek term in Jerome.",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Summa theologiae",
+   "citation": "I, q. 79, a. 12",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org, Leonine text)",
+  "quote": {
+   "text": "synderesis dicitur instigare ad bonum, et murmurare de malo",
+   "translation": "synderesis is said to urge us toward good and to murmur against evil."
+  },
   "respelling": "sin-deh-RAY-sis",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -776,13 +782,16 @@
   "context": "Leibniz argued that a perfectly good, wise and powerful God must have created the best possible world, evils included. Voltaire's Candide ridiculed the thesis through Dr Pangloss after the Lisbon earthquake of 1755.",
   "person": "Leibniz",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Essais de Théodicée",
+   "citation": "§ 8",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1912 Hachette text (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "s'il n'y avait pas le meilleur (optimum) parmi tous les mondes possibles, Dieu n'en aurait produit aucun.",
+   "translation": "if there were not a best (optimum) among all possible worlds, God would not have produced any."
+  },
   "respelling": "luh may-YUR day MOHND poh-SEEBL",
   "image": {
    "src": "img/p/leibniz.webp",
@@ -855,13 +864,16 @@
   "context": "Rousseau separates amour de soi, natural concern for one's own preservation, from amour-propre, the self-love that depends on others' opinion and makes us compare, compete and envy. Society inflames amour-propre; his remedy is a well-ordered education and state.",
   "person": "Rousseau",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Discours sur l'origine de l'inégalité",
+   "citation": "Note XV",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (1823 edition)",
+  "quote": {
+   "text": "L'amour-propre n'est qu'un sentiment relatif, factice et né dans la société, qui porte chaque individu à faire plus cas de soi que de tout autre",
+   "translation": "Amour-propre is only a relative, artificial feeling born in society, which leads each individual to value himself above everyone else."
+  },
   "respelling": "ah-MOOR PROH-pruh",
   "image": {
    "src": "img/p/rousseau.webp",
@@ -893,15 +905,15 @@
   "context": "Hobbes' description of the state of nature: without a common power to keep them in awe, humans live in a condition of war of every one against every one, and life is 'solitary, poor, nasty, brutish, and short'. Only an absolute sovereign brings peace.",
   "person": "Hobbes",
   "source": {
-   "work": "Leviathan",
-   "citation": "ch. 13",
+   "work": "De Cive",
+   "citation": "Preface",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 3207",
+  "attribution_note": "Quote checked against archive.org scan of the 1742 edition (OCR, fuzzy-matched)",
   "quote": {
-   "text": "such a warre, as is of every man, against every man",
-   "translation": "(Original English; the Latin De Cive has 'bellum omnium contra omnes'.)"
+   "text": "conditionem hominum extra societatem civilem (quam conditionem appellare liceat statum naturae) aliam non esse quam bellum omnium contra omnes",
+   "translation": "the condition of men outside civil society (which we may call the state of nature) is nothing other than a war of all against all."
   },
   "respelling": "BEL-loom OM-nee-oom KON-trah OM-nays",
   "image": {
@@ -1841,13 +1853,16 @@
   "context": "In Buddhism nirvāṇa is the extinguishing of the fires of craving, hatred and delusion, and release from the cycle of rebirth. Schopenhauer saw in it a parallel to his denial of the will; scholars still debate whether it is annihilation or ineffable peace.",
   "person": "The Buddha",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Saṁyutta Nikāya 38.1 (Pali, Sāriputta)",
+   "citation": "SN 38.1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against SuttaCentral (Mahāsaṅgīti Pali text)",
+  "quote": {
+   "text": "Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati nibbānan",
+   "translation": "The ending of greed, the ending of hatred, the ending of delusion: this, friend, is called nibbāna (Sanskrit nirvāṇa)."
+  },
   "respelling": "nir-VAH-nuh",
   "image": {
    "src": "img/p/buddha.webp",
@@ -1879,13 +1894,16 @@
   "context": "The first of the Buddha's Four Noble Truths: life as ordinarily lived is marked by duḥkha. Not just pain, but the unease of clinging to what is impermanent. Its cause is craving; its cessation is nirvāṇa; the path is the Eightfold Path.",
   "person": "The Buddha",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Saṁyutta Nikāya 56.11 (Pali), first sermon",
+   "citation": "SN 56.11",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against SuttaCentral (Mahāsaṅgīti Pali text)",
+  "quote": {
+   "text": "jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ",
+   "translation": "Birth is suffering, old age is suffering, illness is suffering, death is suffering."
+  },
   "respelling": "DOOK-uh",
   "image": {
    "src": "img/p/buddha.webp",
@@ -1917,13 +1935,16 @@
   "context": "In Śaṅkara's Advaita Vedānta the world of many separate things is māyā: not nothing, but an appearance superimposed on the one reality, brahman, like a rope mistaken for a snake. Schopenhauer adopted 'the veil of Maya' for the principium individuationis.",
   "person": "Śaṅkara",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Śvetāśvatara Upaniṣad (a text Śaṅkara relies on)",
+   "citation": "4.10",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against GRETIL",
+  "quote": {
+   "text": "māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaraṃ",
+   "translation": "Know that nature is māyā, and the great Lord the wielder of māyā."
+  },
   "respelling": "MAH-yah",
   "image": {
    "src": "img/p/shankara.webp",

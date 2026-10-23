@@ -176,15 +176,15 @@
   "context": "Nomos covers both written law and unwritten custom. The Sophists set it against physis: some argued that conventional justice restrains the strong against nature, others that law is what makes human life possible. Plato's dialogues return to the question again and again.",
   "person": "The Sophists",
   "source": {
-   "work": "Diogenes Laërtius, Lives (on Archelaus)",
-   "citation": "2.16",
+   "work": "Plato, Gorgias (Callicles)",
+   "citation": "482e",
    "date": ""
   },
   "attribution_confidence": "verified",
   "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
   "quote": {
-   "text": "τὸ δίκαιον εἶναι καὶ τὸ αἰσχρὸν οὐ φύσει, ἀλλὰ νόμῳ",
-   "translation": "what is just and what is shameful exist not by nature but by convention."
+   "text": "ὡς τὰ πολλὰ δὲ ταῦτα ἐναντί' ἀλλήλοις ἐστίν, ἥ τε φύσις καὶ ὁ νόμος",
+   "translation": "For the most part these two are opposed to each other: nature and convention."
   },
   "respelling": "NOH-moss",
   "image": {
@@ -1116,13 +1116,16 @@
   "context": "Quidditas is what a thing is: the answer to 'what is it?' (quid est?). Latin scholastics coined it to render Arabic and Greek terms for essence. Aquinas uses it for the essence expressed by a definition, as distinct from a thing's existence (esse).",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De ente et essentia",
+   "citation": "ch. 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org)",
+  "quote": {
+   "text": "nomen essentiae a philosophis in nomen quiditatis mutatur",
+   "translation": "the philosophers change the name 'essence' into the name 'quiddity'."
+  },
   "respelling": "KWID-dih-tahs",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -1154,13 +1157,16 @@
   "context": "Aquinas, following Aristotle, describes God as pure actuality, with no unrealised potential. Since change is passing from potential to actual, God cannot change, lack anything, or be composed of parts. It is the Latin heir of Aristotle's unmoved mover.",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Summa theologiae",
+   "citation": "I, q. 3, a. 2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org, Leonine text)",
+  "quote": {
+   "text": "Deus est purus actus, non habens aliquid de potentialitate",
+   "translation": "God is pure act, having nothing of potentiality."
+  },
   "respelling": "AHK-toos POO-roos",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -1192,13 +1198,16 @@
   "context": "For Aquinas a creature's essence (what it is) is distinct from its esse (that it is). Only in God are they identical: God is ipsum esse subsistens, subsisting being itself. The distinction, prepared by Avicenna, is central to Thomist metaphysics.",
   "person": "Aquinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De ente et essentia",
+   "citation": "ch. 4",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Corpus Thomisticum (corpusthomisticum.org)",
+  "quote": {
+   "text": "Aliquid enim est, sicut Deus, cuius essentia est ipsummet suum esse",
+   "translation": "For there is something, namely God, whose essence is his very act of being itself."
+  },
   "respelling": "ES-seh",
   "image": {
    "src": "img/p/aquinas.webp",
@@ -2123,13 +2132,16 @@
   "context": "Late Wittgenstein compares using words to playing games: there is no single essence of language, only many activities bound up with forms of life, such as giving orders, telling jokes, praying. The meaning of a word is its use in the language.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Philosophische Untersuchungen",
+   "citation": "§ 7",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Wittgenstein Project (German text of the 1953 edition)",
+  "quote": {
+   "text": "Ich werde auch das Ganze: der Sprache und der Tätigkeiten, mit denen sie verwoben ist, das »Sprachspiel« nennen.",
+   "translation": "I shall also call the whole, consisting of language and the activities into which it is woven, the 'language-game'."
+  },
   "respelling": "SHPRAKH-shpeel",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -2161,13 +2173,16 @@
   "context": "What do all games have in common? Nothing, says Wittgenstein: only overlapping similarities, like the resemblances among members of a family. Many concepts work this way, so asking for a strict definition can be a mistake.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Philosophische Untersuchungen",
+   "citation": "§ 67",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Wittgenstein Project (German text of the 1953 edition)",
+  "quote": {
+   "text": "Ich kann diese Ähnlichkeiten nicht besser charakterisieren als durch das Wort »Familienähnlichkeiten«",
+   "translation": "I can think of no better expression to characterise these similarities than 'family resemblances'."
+  },
   "respelling": "fah-MEEL-yen-AYN-likh-kite",
   "image": {
    "src": "img/p/wittgenstein.webp",

@@ -214,13 +214,16 @@
   "context": "Hegel contrasts abstract morality (Moralität), the individual's conscience, with Sittlichkeit: the concrete ethics embodied in family, civil society and the state. We become free not by withdrawing into ourselves but by living within rational institutions.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Grundlinien der Philosophie des Rechts",
+   "citation": "§ 142",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1911 Lasson edition (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Die Sittlichkeit ist die Idee der Freiheit, als das lebendige Gute",
+   "translation": "Ethical life is the Idea of freedom as the living good."
+  },
   "respelling": "ZIT-likh-kite",
   "image": {
    "src": "img/p/hegel.webp",
@@ -252,13 +255,16 @@
   "context": "Hegel used it for spirit becoming foreign to itself. The young Marx turned it into a critique of capitalism: workers are estranged from the products of their labour, from their own activity, from their fellow humans and from their 'species-being'.",
   "person": "Marx",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die heilige Familie (with Engels)",
+   "citation": "ch. IV.4",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "Die besitzende Klasse und die Klasse des Proletariats stellen dieselbe menschliche Selbstentfremdung dar.",
+   "translation": "The propertied class and the class of the proletariat present the same human self-alienation."
+  },
   "respelling": "ent-FREM-doong",
   "image": {
    "src": "img/p/marx.webp",
@@ -328,13 +334,16 @@
   "context": "Fichte's first principle: the I posits itself. This is not a fact found in consciousness but an act that produces what it knows, a deed and its product at once. From it Fichte tried to derive all of experience, turning Kant's philosophy into a thoroughgoing idealism.",
   "person": "Fichte",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Grundlage der gesammten Wissenschaftslehre",
+   "citation": "§ 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1794 first edition (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Er soll diejenige Thathandlung ausdrücken, die … allem Bewußtseyn zum Grunde liegt",
+   "translation": "It is to express that Act which … underlies all consciousness."
+  },
   "respelling": "TAHT-hahnd-loong",
   "image": {
    "src": "img/p/fichte.webp",
@@ -407,13 +416,16 @@
   "context": "For Schopenhauer compassion is the sole basis of morality: in it I feel another's suffering as my own, seeing through the illusion that we are separate individuals. Nietzsche attacked this ethic of pity as life-denying.",
   "person": "Schopenhauer",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die Welt als Wille und Vorstellung I",
+   "citation": "§ 66",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "alle wahre und reine Liebe ist Mitleid, und jede Liebe, die nicht Mitleid ist, ist Selbstsucht.",
+   "translation": "all true and pure love is compassion, and every love that is not compassion is selfishness."
+  },
   "respelling": "MIT-lite",
   "image": {
    "src": "img/p/schopenhauer.webp",
@@ -565,13 +577,16 @@
   "context": "Brentano revived the scholastic idea that every mental act is about something: we do not simply love, we love someone; we do not simply judge, we judge that something is so. Husserl made intentionality the central theme of phenomenology.",
   "person": "Brentano · Husserl",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Brentano, Psychologie vom empirischen Standpunkte",
+   "citation": "Book II, ch. 1, § 5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1874 first edition (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Jedes psychische Phänomen ist durch das charakterisirt, was die Scholastiker des Mittelalters die intentionale (auch wohl mentale) Inexistenz eines Gegenstandes genannt haben",
+   "translation": "Every mental phenomenon is characterised by what the Scholastics of the Middle Ages called the intentional (or mental) inexistence of an object."
+  },
   "respelling": "in-ten-tsyoh-nah-lee-TAYT",
   "image": {
    "src": "img/p/husserl.webp",
@@ -603,13 +618,16 @@
   "context": "Husserl's rallying cry: set aside theories and describe what actually shows itself in experience, just as it shows itself. It became the motto of the whole phenomenological movement, including Heidegger, who reread it in his own way.",
   "person": "Husserl",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Logische Untersuchungen II",
+   "citation": "Introduction, § 2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1901 first edition, vol. II (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Wir wollen auf die „Sachen selbst\" zurückgehen.",
+   "translation": "We want to go back to the 'things themselves'."
+  },
   "respelling": "tsoo dayn ZAH-khen ZELBST",
   "image": {
    "src": "img/p/husserl.webp",
@@ -641,13 +659,16 @@
   "context": "Kierkegaard (Danish angest) describes anxiety as 'the dizziness of freedom': not fear of something definite but the vertigo of facing one's own possibilities. Heidegger made it the mood in which the world slips away and Dasein confronts its own being. English borrowed the German word.",
   "person": "Kierkegaard · Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Begrebet Angest",
+   "citation": "ch. I, § 5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Søren Kierkegaards Skrifter, via Det Kgl. Biblioteks tekstportal",
+  "quote": {
+   "text": "Saaledes er Angest den Frihedens Svimlen, der opkommer, idet Aanden vil sætte Synthesen",
+   "translation": "Thus anxiety is the dizziness of freedom, which arises when spirit wants to posit the synthesis."
+  },
   "respelling": "AHNGST",
   "image": {
    "src": "img/p/kierkegaard.webp",
@@ -720,13 +741,16 @@
   "context": "Faith, for Kierkegaard, is not reached by reasoning but by a leap: a passionate decision in the face of objective uncertainty and paradox. Abraham's readiness to sacrifice Isaac, in Fear and Trembling, is his great example.",
   "person": "Kierkegaard",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Begrebet Angest",
+   "citation": "ch. I, § 5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Søren Kierkegaards Skrifter, via Det Kgl. Biblioteks tekstportal",
+  "quote": {
+   "text": "Imellem disse tvende Øieblikke ligger Springet, som ingen Videnskab har forklaret eller kan forklare.",
+   "translation": "Between these two moments lies the leap, which no science has explained or can explain."
+  },
   "respelling": "SPRING-et",
   "image": {
    "src": "img/p/kierkegaard.webp",
@@ -1214,13 +1238,16 @@
   "context": "Bergson's name for the creative force driving evolution, which mechanism and finalism both miss. Life is not assembled from parts or aimed at a plan; it surges forward and diversifies, inventing new forms.",
   "person": "Bergson",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "L'Évolution créatrice",
+   "citation": "ch. III",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (1908 edition)",
+  "quote": {
+   "text": "l'élan vital n'est ni unité ni multiplicité pures",
+   "translation": "the vital impetus is neither pure unity nor pure multiplicity."
+  },
   "respelling": "ay-LAHN vee-TAHL",
   "image": {
    "src": "img/p/bergson.webp",
@@ -1252,13 +1279,16 @@
   "context": "For Bergson, lived time is not a line of separate instants like points in space. It is durée, a continuous flow in which past and present interpenetrate, like notes in a melody. Clock time is a spatialised abstraction from it.",
   "person": "Bergson",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Essai sur les données immédiates de la conscience",
+   "citation": "ch. II",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (1908 edition)",
+  "quote": {
+   "text": "La durée toute pure est la forme que prend la succession de nos états de conscience quand notre moi se laisse vivre",
+   "translation": "Pure duration is the form taken by the succession of our states of consciousness when our self lets itself live."
+  },
   "respelling": "doo-RAY",
   "image": {
    "src": "img/p/bergson.webp",
@@ -1442,13 +1472,16 @@
   "context": "Pascal contrasts the geometric mind, which reasons from a few clear principles, with the mind of finesse, which grasps at a glance the many delicate principles of human affairs. 'The heart has its reasons, which reason does not know.'",
   "person": "Pascal",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Pensées",
+   "citation": "Br. 1 (Port-Royal art. XXXI)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (Port-Royal text, 2nd Desprez ed.)",
+  "quote": {
+   "text": "Il y a beaucoup de différence entre l'esprit de Géométrie et l'esprit de finesse.",
+   "translation": "There is a great difference between the mathematical mind and the intuitive mind."
+  },
   "respelling": "es-PREE duh fee-NESS",
   "image": {
    "src": "img/p/pascal.webp",
@@ -1518,13 +1551,16 @@
   "context": "Language-games are embedded in forms of life: the shared practices, reactions and needs of a community. 'If a lion could talk, we could not understand him.' Justification ends not in self-evident truths but in what we do.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Philosophische Untersuchungen",
+   "citation": "§ 19",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Wittgenstein Project (German text of the 1953 edition)",
+  "quote": {
+   "text": "Und eine Sprache vorstellen heißt, sich eine Lebensform vorstellen.",
+   "translation": "And to imagine a language means to imagine a form of life."
+  },
   "respelling": "LAY-bens-form",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -1556,13 +1592,16 @@
   "context": "Could there be a language whose words refer to one's own inner sensations and that no one else could understand? Wittgenstein argues not: without public criteria for correct use, there is no difference between following a rule and only thinking one is.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Philosophische Untersuchungen",
+   "citation": "§ 243",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Wittgenstein Project (German text of the 1953 edition)",
+  "quote": {
+   "text": "Die Wörter dieser Sprache sollen sich auf das beziehen, wovon nur der Sprechende wissen kann; auf seine unmittelbaren, privaten, Empfindungen.",
+   "translation": "The words of this language are to refer to what only the speaker can know: to his immediate, private sensations."
+  },
   "respelling": "pree-VAHT-shprah-kheh",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -1594,13 +1633,16 @@
   "context": "Ernst Mach popularised the word for experiments carried out in imagination. Philosophy is full of them: Gettier cases, the trolley problem, Mary the colour scientist, Searle's Chinese Room. They test whether a theory fits our considered judgements.",
   "person": "Mach",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Erkenntnis und Irrtum",
+   "citation": "'Über Gedankenexperimente', § 3",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1906 edition (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Außer dem physischen Experiment gibt es noch ein anderes, welches auf höherer intellektueller Stufe in ausgedehntem Maße geübt wird — das Gedankenexperiment.",
+   "translation": "Besides the physical experiment there is another, practised extensively at a higher intellectual level: the thought experiment."
+  },
   "respelling": "geh-DAHN-ken-ex-peh-ree-ment",
   "image": {
    "src": "img/p/mach.webp",
@@ -1755,15 +1797,15 @@
   "context": "Li covers ceremony, etiquette and the whole web of proper social forms. For Confucius ritual is not empty formality: practised with sincerity, it shapes character and makes harmony between people possible.",
   "person": "Confucius",
   "source": {
-   "work": "Analects (Master You)",
-   "citation": "1.12",
+   "work": "Analects (Confucius)",
+   "citation": "12.1",
    "date": ""
   },
   "attribution_confidence": "verified",
   "attribution_note": "Quote checked verbatim against Chinese Wikisource",
   "quote": {
-   "text": "禮之用，和爲貴；先王之道，斯爲美",
-   "translation": "In the practice of ritual propriety, harmony is most valued; in the Way of the former kings, this was the beauty."
+   "text": "克己復禮爲仁",
+   "translation": "To master oneself and return to ritual propriety is humaneness."
   },
   "respelling": "LEE",
   "image": {
@@ -1796,13 +1838,16 @@
   "context": "In Hindu thought dharma is the cosmic and moral order and each person's duty within it; in the Bhagavad Gita, Arjuna must do his duty as a warrior. In Buddhism it names the Buddha's teaching and also the basic constituents of experience.",
   "person": "Bhagavad Gita",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Bhagavad Gītā",
+   "citation": "3.35",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against GRETIL (Göttingen Register of Electronic Texts in Indian Languages)",
+  "quote": {
+   "text": "śreyān sva-dharmo viguṇaḥ para-dharmāt svanuṣṭhitāt",
+   "translation": "Better one's own dharma done imperfectly than another's dharma done well."
+  },
   "respelling": "DAR-muh",
   "image": {
    "src": "img/p/buddha.webp",
@@ -1834,13 +1879,16 @@
   "context": "For the Buddhist philosopher Nāgārjuna, all things are empty of svabhāva, intrinsic self-existence: they arise only in dependence on causes and concepts. Emptiness itself is empty, so it is not a hidden absolute but the end of all fixed views.",
   "person": "Nāgārjuna",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Mūlamadhyamakakārikā",
+   "citation": "24.18",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against GRETIL",
+  "quote": {
+   "text": "yaḥ pratītyasamutpādaḥ śūnyatāṃ tāṃ pracakṣmahe",
+   "translation": "Whatever is dependent arising, that we call emptiness."
+  },
   "respelling": "shoon-yuh-TAH",
   "image": {
    "src": "img/p/nagarjuna.webp",
@@ -1872,13 +1920,16 @@
   "context": "The Upanishads teach that the innermost self, ātman, is identical with brahman, the ground of all reality: 'tat tvam asi', you are that. The Buddha denied any such permanent self (anātman), and the dispute shaped Indian philosophy for centuries.",
   "person": "Upanishads",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Chāndogya Upaniṣad",
+   "citation": "6.8.7",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against GRETIL",
+  "quote": {
+   "text": "tat satyam | sa ātmā | tat tvam asi śvetaketo",
+   "translation": "That is the real. That is the self. You are that, Śvetaketu."
+  },
   "respelling": "AHT-mun",
   "image": {
    "src": "img/p/shankara.webp",
