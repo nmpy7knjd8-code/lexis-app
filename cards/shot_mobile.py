@@ -5,7 +5,7 @@ W,H=int(sys.argv[1]),int(sys.argv[2]); O="/workspace/lexis-app/shots/";os.makedi
 U="http://localhost:8767/cards/index.html"
 HCHK="""[...document.querySelectorAll('.card')].filter(c=>{for(const f of c.querySelectorAll('.face')){const r=f.getBoundingClientRect();for(const e of f.querySelectorAll('*')){if(!e.offsetWidth)continue;const b=e.getBoundingClientRect();if(e.scrollWidth>e.clientWidth+1&&getComputedStyle(e).overflowX!=='hidden'&&!e.matches('img,.art,.art *,.tornwrap,.frame,.cut,.fine,.fine *'))return true;if(!e.closest('.art')&&(b.left<r.left-1||b.right>r.right+1))return true}}return false}).map(c=>c.dataset.id)"""
 CHK="""[...document.querySelectorAll('.card')].map(c=>{const b=c.querySelector('.back'),f=c.querySelector('.front');return [c.dataset.id,b.style.overflowY==='auto'?0:b.scrollHeight-b.clientHeight,f.scrollHeight-f.clientHeight]}).filter(x=>x[1]>1||x[2]>1)"""
-GLYPH="""(()=>document.fonts.check('30px "Gentium Book Plus"','ἀἁᾄῷὦ'))()"""
+GLYPH="""document.fonts.load('30px "Gentium Book Plus"','ἀᾄῷὦ').then(f=>f.some(x=>x.unicodeRange.includes('1F00')))"""
 SHOTS=os.environ.get("SHOTS")
 with sync_playwright() as p:
     b=p.chromium.launch(executable_path="/usr/bin/google-chrome"); pg=b.new_context(viewport={"width":W,"height":H},device_scale_factor=2,is_mobile=True,has_touch=True).new_page()
@@ -15,7 +15,7 @@ with sync_playwright() as p:
         pg.evaluate(f"setSec({u})"); pg.wait_for_timeout(300)
         tot+=pg.evaluate("document.querySelectorAll('.card').length"); bad+=pg.evaluate(CHK); hbad+=pg.evaluate(HCHK)
         clamped+=pg.evaluate("[...document.querySelectorAll('.ctx.clamp')].map(x=>x.closest('.card').dataset.id)")
-    print(W,H,"cards",tot,"overflow",bad,"HORIZ",hbad,"clamped",len(clamped),"no_button",pg.evaluate("[...document.querySelectorAll('.ctx.clamp')].filter(c=>c.parentElement.querySelector('.more').hidden).length"),"pageScroll",pg.evaluate("document.documentElement.scrollHeight"),H,"polytonic font loaded",pg.evaluate("document.fonts.ready.then(()=>"+GLYPH+")"))
+    print(W,H,"cards",tot,"overflow",bad,"HORIZ",hbad,"clamped",len(clamped),"no_button",pg.evaluate("[...document.querySelectorAll('.ctx.clamp')].filter(c=>c.parentElement.querySelector('.more').hidden).length"),"pageScroll",pg.evaluate("document.documentElement.scrollHeight"),H,"polytonic font loaded",pg.evaluate(GLYPH))
     if SHOTS:
         for cid in SHOTS.split(","):
             sec=pg.evaluate(f"unitOf(CARDS.find(c=>c.id==='{cid}'))"); pg.evaluate(f"setSec({sec})"); pg.wait_for_timeout(300)

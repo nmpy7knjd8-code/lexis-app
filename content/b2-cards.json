@@ -747,7 +747,7 @@
   "language": "Danish",
   "translit": "",
   "translation": "the leap",
-  "context": "Faith, for Kierkegaard, is not reached by reasoning but by a leap: a passionate decision in the face of objective uncertainty and paradox. Abraham's readiness to sacrifice Isaac, in Fear and Trembling, is his great example.",
+  "context": "Faith, for Kierkegaard, is not reached by reasoning but by a leap: a passionate decision in the face of objective uncertainty and paradox. Abraham's readiness to sacrifice Isaac, in Fear and Trembling, is his great example. In The Concept of Anxiety, quoted here, sin too enters by a qualitative leap that no science can explain.",
   "person": "Kierkegaard",
   "source": {
    "work": "Begrebet Angest",
@@ -914,15 +914,15 @@
   "context": "In The Second Sex Beauvoir argues that man has made himself the Subject and woman the Other, defined only in relation to him. 'One is not born, but rather becomes, a woman': womanhood is a situation, not a fixed essence.",
   "person": "Beauvoir",
   "source": {
-   "work": "Le Deuxième Sexe II",
-   "citation": "Part I, ch. 1, opening",
+   "work": "Le Deuxième Sexe I",
+   "citation": "Introduction",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Le Deuxième Sexe II, Gallimard (archive.org OCR, https://archive.org/details/le-deuxieme-sexe-tome-2-simone-de-beauvoir)",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the archive.org scan of vol. I",
   "quote": {
-   "text": "On ne naît pas femme : on le devient.",
-   "translation": "One is not born, but rather becomes, a woman."
+   "text": "Il est le Sujet, il est l'Absolu : elle est l'Autre.",
+   "translation": "He is the Subject, he is the Absolute: she is the Other."
   },
   "respelling": "LOH-truh",
   "image": {
@@ -1448,14 +1448,14 @@
   "person": "Levinas",
   "source": {
    "work": "Éthique et Infini",
-   "citation": "Livre de poche 1982, p. 80",
+   "citation": "Livre de poche 1982, p. 81",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against French Wikiquote (https://fr.wikiquote.org/wiki/Emmanuel_Levinas), which cites the page",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against two independent French transcriptions (coin-philo.net)",
   "quote": {
-   "text": "le visage est ce qui nous interdit de tuer.",
-   "translation": "the face is what forbids us to kill."
+   "text": "Le visage est ce qu'on ne peut tuer, ou du moins dont le sens consiste à dire : « tu ne tueras point ».",
+   "translation": "The face is what one cannot kill, or at least it is that whose meaning consists in saying: 'thou shalt not kill'."
   },
   "respelling": "luh vee-ZAHZH",
   "image": {
@@ -1817,14 +1817,14 @@
   "person": "Confucius",
   "source": {
    "work": "Analects",
-   "citation": "1.2",
+   "citation": "12.22",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource (Lunyu 12)",
   "quote": {
-   "text": "孝弟也者，其爲仁之本與？",
-   "translation": "Filial piety and brotherly respect: are they not the root of humaneness?"
+   "text": "樊遲問仁。子曰：「愛人。」",
+   "translation": "Fan Chi asked about humaneness. The Master said: 'Love people.'"
   },
   "respelling": "REN",
   "image": {

@@ -423,14 +423,14 @@
   "person": "William of Ockham",
   "source": {
    "work": "Quodlibeta",
-   "citation": "VI, q. 6",
+   "citation": "VI, q. 1, a. 1 (OTh IX, 585)",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked against the Latin as quoted in Boehner, Collected Articles on Ockham (archive.org OCR, https://archive.org/details/collected-articles-on-ockham-philotheus-boehner-1958)",
+  "attribution_note": "Quote checked verbatim against the Opera Theologica text as quoted in two scholarly articles (philarchive AMEGDO; Revista Ambiente 2017)",
   "quote": {
-   "text": "Credo in Deum Patrem omnipotentem, quem sic intelligo: quod quodlibet est divinae potentiae attribuendum, quod non includit manifestam contradictionem",
-   "translation": "I believe in God the Father almighty, which I understand thus: anything is to be attributed to the divine power that does not involve a manifest contradiction."
+   "text": "quaedam potest Deus facere de potentia ordinata et aliqua de potentia absoluta",
+   "translation": "God can do some things by his ordained power and others by his absolute power."
   },
   "respelling": "poh-TEN-tee-ah ab-soh-LOO-tah / or-dih-NAH-tah",
   "image": {
@@ -552,8 +552,8 @@
   "attribution_confidence": "verified",
   "attribution_note": "Quote checked verbatim against French Wikisource (1762 edition)",
   "quote": {
-   "text": "Tel se croit le maître des autres, qui ne laisse pas d'être plus esclave qu'eux.",
-   "translation": "One who thinks himself the master of others is no less a slave than they."
+   "text": "L'homme est né libre, & par-tout il est dans les fers.",
+   "translation": "Man is born free, and everywhere he is in chains."
   },
   "respelling": "kohn-TRAH soh-SYAL",
   "image": {
@@ -757,8 +757,8 @@
   "attribution_confidence": "verified",
   "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
   "quote": {
-   "text": "sondern ebensosehr als Subjekt aufzufassen und auszudrücken",
-   "translation": "but equally as subject, to grasp and express it."
+   "text": "das Wahre nicht als Substanz, sondern ebensosehr als Subjekt aufzufassen und auszudrücken",
+   "translation": "to grasp and express the true not as substance, but equally as subject."
   },
   "respelling": "zoob-STANTS ahls zoob-YEKT",
   "image": {

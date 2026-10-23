@@ -709,15 +709,15 @@
   "context": "Since monads have no windows, they cannot act on one another. Yet mind and body, and all monads, seem to interact. Leibniz's answer: God set them up so their inner states correspond perfectly, like clocks keeping identical time without any connection.",
   "person": "Leibniz",
   "source": {
-   "work": "Monadology",
-   "citation": "§7",
+   "work": "Monadologie",
+   "citation": "§ 78",
    "date": ""
   },
   "attribution_confidence": "verified",
   "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 17641 (1909 ed.)",
   "quote": {
-   "text": "Les Monades n'ont point de fenêtres, par lesquelles quelque chose y puisse entrer ou sortir.",
-   "translation": "Monads have no windows through which anything could enter or leave."
+   "text": "L'âme suit ses propres loix, et le corps aussi les siennes; et ils se rencontrent en vertu de l'harmonie préétablie entre toutes les substances",
+   "translation": "The soul follows its own laws and the body its own; and they agree by virtue of the harmony pre-established among all substances."
   },
   "respelling": "ar-moh-NEE pray-ay-tah-BLEE",
   "image": {

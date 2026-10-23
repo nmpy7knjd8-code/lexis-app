@@ -91,7 +91,7 @@
   "language": "Ancient Greek",
   "translit": "ápeiron",
   "translation": "the boundless, the unlimited",
-  "context": "Anaximander's candidate for the first principle: not any one element but something without limits or definite character. Opposites like hot and cold separate out of it and pay each other 'penalty' for their injustice. It is the first abstract concept in Western philosophy.",
+  "context": "Anaximander's candidate for the first principle: not any one element but something without limits or definite character. Opposites like hot and cold separate out of it and pay each other 'penalty' for their injustice. It is often called the first abstract principle in Greek thought.",
   "person": "Anaximander",
   "source": {
    "work": "Diogenes Laërtius, Lives (on Anaximander)",
@@ -296,7 +296,7 @@
   "language": "Ancient Greek",
   "translit": "élenchos",
   "translation": "testing, refutation",
-  "context": "The elenchus is Socrates' method: get someone to state what they believe, then draw out further admissions until they contradict the original claim. It shows the speaker does not know what he thought he knew. Socrates claimed his only wisdom was knowing that he did not know.",
+  "context": "The elenchus is Socrates' method: get someone to state what they believe, then draw out further admissions until they contradict the original claim. It shows the speaker does not know what he thought he knew. Socrates said his only wisdom was that he did not think he knew what he did not know.",
   "person": "Socrates",
   "source": {
    "work": "Apology",
@@ -789,7 +789,7 @@
   "translit": "ataraxía",
   "translation": "untroubledness, tranquillity",
   "context": "Ataraxia is freedom from mental disturbance, the goal shared by Epicureans and Sceptics. Epicurus sought it by removing the fear of death and of gods; the Sceptics by suspending judgement (epochē), after which tranquillity follows 'like a shadow'.",
-  "person": "Diogenes Laërtius",
+  "person": "Epicurus · the Sceptics",
   "source": {
    "work": "Lives of the Philosophers",
    "citation": "9.107",
@@ -1075,7 +1075,7 @@
   "language": "Latin",
   "translit": "",
   "translation": "'thisness'",
-  "context": "Duns Scotus asked what makes an individual this one and not another. His answer was a haecceitas, a positive principle of individuality distinct from the shared nature. The term has been revived in modern metaphysics for primitive identity.",
+  "context": "Duns Scotus asked what makes an individual this one and not another. His answer was a haecceitas, a positive principle of individuality distinct from the shared nature. In the Ordinatio he calls it simply 'this entity'; the word haecceitas itself appears in his Questions on the Metaphysics and the Reportatio. The term has been revived in modern metaphysics for primitive identity.",
   "person": "Duns Scotus",
   "source": {
    "work": "Ordinatio II",
@@ -1898,15 +1898,15 @@
   "context": "Nietzsche used the French word for the festering, impotent hatred of the weak toward the strong. Unable to act, they take revenge in imagination by calling the strong 'evil' and themselves 'good'. He traced Christian morality to this 'slave revolt in morals'.",
   "person": "Nietzsche",
   "source": {
-   "work": "Götzen-Dämmerung",
-   "citation": "'What I Owe the Ancients' §4",
+   "work": "Zur Genealogie der Moral",
+   "citation": "I § 10 (KSA 5, 270)",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7203",
+  "attribution_note": "Quote checked verbatim against the KSA text as quoted in Vogt, 'Starke Gefühle' (zfkm.org) and the Wuppertal seminar text",
   "quote": {
-   "text": "Erst das Christenthum, mit seinem Ressentiment gegen das Leben auf dem Grunde, hat aus der Geschlechtlichkeit etwas Unreines gemacht",
-   "translation": "Only Christianity, with its ressentiment against life at bottom, made sexuality something impure."
+   "text": "Der Sklavenaufstand in der Moral beginnt damit, dass das Ressentiment selbst schöpferisch wird und Werthe gebiert",
+   "translation": "The slave revolt in morals begins when ressentiment itself becomes creative and gives birth to values."
   },
   "respelling": "ruh-sahn-tee-MAHN",
   "image": {
@@ -1980,15 +1980,15 @@
   "context": "Nietzsche's diagnosis of modern Europe: belief in the Christian God has become unbelievable, and with it the foundation of Western values has collapsed, even if people have not yet noticed. The danger is nihilism; the task is a revaluation of all values.",
   "person": "Nietzsche",
   "source": {
-   "work": "Also sprach Zarathustra",
-   "citation": "II, 'On the Pitying'",
+   "work": "Die fröhliche Wissenschaft",
+   "citation": "§ 125, 'Der tolle Mensch'",
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7205",
+  "attribution_note": "Quote checked verbatim against the 1882 text (The Nietzsche Channel) and Zeno.org",
   "quote": {
-   "text": "Gott ist todt; an seinem Mitleiden mit den Menschen ist Gott gestorben.",
-   "translation": "God is dead; God has died of his pity for man."
+   "text": "Gott ist todt! Gott bleibt todt! Und wir haben ihn getödtet!",
+   "translation": "God is dead! God remains dead! And we have killed him!"
   },
   "respelling": "GOT ist TOHT",
   "image": {

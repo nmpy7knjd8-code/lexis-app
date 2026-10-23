@@ -32,5 +32,6 @@ for c in m.C:
         license=lic,credit=f"{credit} · {lic} · via Wikimedia Commons",source_url=i["page"],license_url=i["licurl"],modified="cropped to 3:4, resized"),
       learn_more=dict(label=c["lm"][0],url=c["lm"][1]))
     out.append(d)
+import review_fixes; out=review_fixes.apply(out)
 json.dump(out,open(b+"-cards.json","w"),ensure_ascii=False,indent=1)
 print(b,len(out),"cards,",sum(1 for d in out if d["quote"]),"quotes, dropped:",sorted(bad))
