@@ -1,0 +1,2117 @@
+[
+ {
+  "id": "t-logos",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "λόγος",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "lógos",
+  "translation": "word, account, reason",
+  "context": "For Heraclitus the logos is the rational order that runs through all change, which most people fail to notice. Later Greek thinkers used the same word for argument, definition and the reasoning faculty itself. The Stoics made it the divine reason pervading the cosmos, and John's Gospel opens with it.",
+  "person": "Heraclitus",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "LOH-goss",
+  "image": {
+   "src": "img/p/heraclitus.webp",
+   "alt": "Portrait of Heraclitus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johannes Moreelse · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Johannes_Moreelse_-_Heraclitus_-_Google_Art_Project.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Heraclitus",
+   "url": "https://plato.stanford.edu/entries/heraclitus/"
+  }
+ },
+ {
+  "id": "t-arche",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἀρχή",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "archḗ",
+  "translation": "beginning, first principle, rule",
+  "context": "The first Greek philosophers asked what the archē of everything is: the source from which things come and into which they return. Thales said water, Anaximenes air, Anaximander 'the boundless'. The same word also means 'rule' or 'command', so a first principle is also what governs.",
+  "person": "Thales",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ar-KHAY",
+  "image": {
+   "src": "img/p/thales.webp",
+   "alt": "Portrait of Thales",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "CC BY-SA 3.0",
+   "credit": "Sailko · CC BY-SA 3.0 · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Arte_romana,_testa_di_talete_di_mileto,_II_sec..JPG",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Arche",
+   "url": "https://en.wikipedia.org/wiki/Arche"
+  }
+ },
+ {
+  "id": "t-apeiron",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἄπειρον",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "ápeiron",
+  "translation": "the boundless, the unlimited",
+  "context": "Anaximander's candidate for the first principle: not any one element but something without limits or definite character. Opposites like hot and cold separate out of it and pay each other 'penalty' for their injustice. It is the first abstract concept in Western philosophy.",
+  "person": "Anaximander",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "AH-pay-ron",
+  "image": {
+   "src": "img/p/anaximander.webp",
+   "alt": "Portrait of Anaximander",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Attributed to Pietro Bellotti · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Pietro_Bellotti_(attr)_Anaximander.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Anaximander",
+   "url": "https://iep.utm.edu/anaximander/"
+  }
+ },
+ {
+  "id": "t-physis",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "φύσις",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "phýsis",
+  "translation": "nature, growth",
+  "context": "Physis is the way a thing grows and behaves of its own accord, as opposed to what is made by craft or fixed by custom (nomos). The early thinkers were called physikoi because they studied it. The contrast between physis and nomos drove fifth-century debates about whether justice is natural or conventional.",
+  "person": "Presocratics",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "FOO-sis",
+  "image": {
+   "src": "img/p/heraclitus.webp",
+   "alt": "Portrait of Heraclitus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johannes Moreelse · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Johannes_Moreelse_-_Heraclitus_-_Google_Art_Project.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Physis",
+   "url": "https://en.wikipedia.org/wiki/Physis"
+  }
+ },
+ {
+  "id": "t-nomos",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "νόμος",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "nómos",
+  "translation": "law, custom, convention",
+  "context": "Nomos covers both written law and unwritten custom. The Sophists set it against physis: some argued that conventional justice restrains the strong against nature, others that law is what makes human life possible. Plato's dialogues return to the question again and again.",
+  "person": "The Sophists",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "NOH-moss",
+  "image": {
+   "src": "img/p/protagoras.webp",
+   "alt": "Portrait of Protagoras",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Jusepe de Ribera · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ribera_-_Protagoras,_1637.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Physis and nomos",
+   "url": "https://en.wikipedia.org/wiki/Nomos_(sociology)"
+  }
+ },
+ {
+  "id": "t-arete",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἀρετή",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "aretḗ",
+  "translation": "excellence, virtue",
+  "context": "Aretē is the excellence of anything at doing what it does: a knife's sharpness, a horse's speed, a person's goodness. Socrates asked whether human aretē could be taught, and Plato and Aristotle identified it with the virtues of character and intellect. 'Virtue' is the usual translation, but 'excellence' is closer.",
+  "person": "Plato",
+  "source": {
+   "work": "Meno",
+   "citation": "72a",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ΜΕΝ. καὶ ἄλλαι πάμπολλαι ἀρεταί εἰσιν, ὥστε οὐκ ἀπορία εἰπεῖν ἀρετῆς πέρι ὅτι ἐστίν·",
+   "translation": "MENO: And there are a great many other virtues, so it is no trouble to say what virtue is."
+  },
+  "respelling": "ah-reh-TAY",
+  "image": {
+   "src": "img/p/plato.webp",
+   "alt": "Portrait of Plato",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Marie-Lan Nguyen · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Arete",
+   "url": "https://en.wikipedia.org/wiki/Arete"
+  }
+ },
+ {
+  "id": "t-aporia",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἀπορία",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "aporía",
+  "translation": "no way through, impasse",
+  "context": "Aporia is the puzzled state in which an argument leaves you stuck. Socrates' early dialogues often end there: the confident speaker discovers he cannot define courage or piety after all. Aristotle made working through aporiai the standard way to begin an inquiry.",
+  "person": "Socrates",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ah-por-EE-ah",
+  "image": {
+   "src": "img/p/socrates.webp",
+   "alt": "Portrait of Socrates",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Copy of Lysippos (?) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Aporia",
+   "url": "https://en.wikipedia.org/wiki/Aporia"
+  }
+ },
+ {
+  "id": "t-elenchus",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἔλεγχος",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "élenchos",
+  "translation": "testing, refutation",
+  "context": "The elenchus is Socrates' method: get someone to state what they believe, then draw out further admissions until they contradict the original claim. It shows the speaker does not know what he thought he knew. Socrates claimed his only wisdom was knowing that he did not know.",
+  "person": "Socrates",
+  "source": {
+   "work": "Apology",
+   "citation": "38a",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ",
+   "translation": "The unexamined life is not worth living for a human being."
+  },
+  "respelling": "EH-leng-khoss",
+  "image": {
+   "src": "img/p/socrates.webp",
+   "alt": "Portrait of Socrates",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Copy of Lysippos (?) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Socratic method",
+   "url": "https://en.wikipedia.org/wiki/Socratic_method"
+  }
+ },
+ {
+  "id": "t-eidos",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "εἶδος",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "eîdos",
+  "translation": "form, look, kind",
+  "context": "Plato's Forms (eidē, also ideai) are the unchanging realities that particular things imitate: many beautiful things, one Beauty itself. Only the Forms can be truly known, while the changing world of the senses gives mere opinion. Aristotle kept the word but placed form inside things, as their structure.",
+  "person": "Plato",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "AY-doss",
+  "image": {
+   "src": "img/p/plato.webp",
+   "alt": "Portrait of Plato",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Marie-Lan Nguyen · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Theory of Forms",
+   "url": "https://en.wikipedia.org/wiki/Theory_of_forms"
+  }
+ },
+ {
+  "id": "t-anamnesis",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἀνάμνησις",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "anámnēsis",
+  "translation": "recollection",
+  "context": "In the Meno and Phaedo, Plato argues that learning is really remembering what the soul knew before birth. Socrates leads an untaught slave boy to a geometric truth only by asking questions. The theory is the ancestor of later doctrines of innate ideas.",
+  "person": "Plato",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ah-NAM-nay-sis",
+  "image": {
+   "src": "img/p/plato.webp",
+   "alt": "Portrait of Plato",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Marie-Lan Nguyen · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Anamnesis",
+   "url": "https://en.wikipedia.org/wiki/Anamnesis_(philosophy)"
+  }
+ },
+ {
+  "id": "t-thaumazein",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "θαυμάζειν",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "thaumázein",
+  "translation": "to wonder, to marvel",
+  "context": "Plato and Aristotle both say philosophy begins in wonder: puzzlement at something we do not understand. Socrates tells young Theaetetus that his dizziness at a paradox is a sign of a philosophical nature.",
+  "person": "Plato",
+  "source": {
+   "work": "Theaetetus",
+   "citation": "155d",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "μάλα γὰρ φιλοσόφου τοῦτο τὸ πάθος, τὸ θαυμάζειν· οὐ γὰρ ἄλλη ἀρχὴ φιλοσοφίας ἢ αὕτη",
+   "translation": "For this feeling, wonder, belongs very much to the philosopher: there is no other beginning of philosophy than this."
+  },
+  "respelling": "thow-MAH-zane",
+  "image": {
+   "src": "img/p/plato.webp",
+   "alt": "Portrait of Plato",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Marie-Lan Nguyen · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Theaetetus",
+   "url": "https://plato.stanford.edu/entries/plato-theaetetus/"
+  }
+ },
+ {
+  "id": "t-eros",
+  "type": "term",
+  "era": "greek",
+  "unit": 1,
+  "greek": "ἔρως",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "érōs",
+  "translation": "love, desire",
+  "context": "In Plato's Symposium, Diotima teaches Socrates that erōs is longing for what we lack, above all for the beautiful. Rightly guided, it climbs a ladder from one beautiful body to beautiful souls, laws and knowledge, and finally to Beauty itself. Here 'Platonic love' has its origin.",
+  "person": "Plato",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "EH-rose",
+  "image": {
+   "src": "img/p/plato.webp",
+   "alt": "Portrait of Plato",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Marie-Lan Nguyen · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Plato on love",
+   "url": "https://en.wikipedia.org/wiki/Symposium_(Plato)"
+  }
+ },
+ {
+  "id": "t-eudaimonia",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "εὐδαιμονία",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "eudaimonía",
+  "translation": "good spirit; flourishing",
+  "context": "Aristotle argues that the highest human good is eudaimonia, a whole life lived well, not a passing feeling of happiness. It consists in activity of the soul in accordance with virtue, above all reason. 'Flourishing' captures it better than 'happiness'.",
+  "person": "Aristotle",
+  "source": {
+   "work": "Nicomachean Ethics",
+   "citation": "1.7, 1098a16",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "τὸ ἀνθρώπινον ἀγαθὸν ψυχῆς ἐνέργεια γίνεται κατ' ἀρετήν",
+   "translation": "The human good turns out to be activity of the soul in accordance with virtue."
+  },
+  "respelling": "yoo-dye-moh-NEE-ah",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Aristotle's ethics",
+   "url": "https://plato.stanford.edu/entries/aristotle-ethics/"
+  }
+ },
+ {
+  "id": "t-telos",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "τέλος",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "télos",
+  "translation": "end, goal, completion",
+  "context": "For Aristotle, to understand a thing you must know its telos, what it is for. An acorn's telos is the oak, an eye's is seeing. Explanation by ends (teleology) dominated natural philosophy until the scientific revolution, and it survives in ethics.",
+  "person": "Aristotle",
+  "source": {
+   "work": "Politics",
+   "citation": "1.2, 1252b32",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ἡ δὲ φύσις τέλος ἐστίν",
+   "translation": "And nature is an end."
+  },
+  "respelling": "TEH-loss",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Teleology",
+   "url": "https://en.wikipedia.org/wiki/Teleology"
+  }
+ },
+ {
+  "id": "t-episteme",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ἐπιστήμη",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "epistḗmē",
+  "translation": "knowledge, science",
+  "context": "Epistēmē is knowledge in the strict sense: understanding why something must be so, demonstrated from first principles. Plato contrasted it with doxa, mere opinion. Aristotle made it one of the intellectual virtues, alongside technē and phronēsis. It gives us 'epistemology'.",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "eh-pis-TAY-may",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Episteme",
+   "url": "https://en.wikipedia.org/wiki/Episteme"
+  }
+ },
+ {
+  "id": "t-techne",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "τέχνη",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "téchnē",
+  "translation": "craft, art, skill",
+  "context": "Technē is skilled know-how that produces something: medicine, shipbuilding, rhetoric. Socrates used it as a model of expert knowledge that can give an account of itself. Aristotle separated it from epistēmē (knowing what cannot be otherwise) and phronēsis (acting well).",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "TEKH-nay",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Episteme and techne",
+   "url": "https://plato.stanford.edu/entries/episteme-techne/"
+  }
+ },
+ {
+  "id": "t-phronesis",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "φρόνησις",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "phrónēsis",
+  "translation": "practical wisdom, prudence",
+  "context": "Phronēsis is the ability to see what to do in particular situations, here and now. For Aristotle no one can be fully virtuous without it, and it cannot be learned from rules alone: it needs experience. It came back into favour in 20th-century virtue ethics.",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "FROH-nay-sis",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Phronesis",
+   "url": "https://en.wikipedia.org/wiki/Phronesis"
+  }
+ },
+ {
+  "id": "t-energeia",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ἐνέργεια",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "enérgeia",
+  "translation": "activity, actuality",
+  "context": "Aristotle coined energeia for actuality, as opposed to dynamis, potentiality. A sleeping geometer has knowledge potentially; when she proves a theorem she has it actually. The pair let him explain change without Parmenides' paradoxes. Our word 'energy' descends from it.",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "en-ER-gay-ah",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Potentiality and actuality",
+   "url": "https://en.wikipedia.org/wiki/Potentiality_and_actuality"
+  }
+ },
+ {
+  "id": "t-ousia",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "οὐσία",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "ousía",
+  "translation": "being, substance, essence",
+  "context": "Ousia, from the verb 'to be', is Aristotle's word for what is most fundamentally real. In the Categories it is the individual thing, this horse or this man; in the Metaphysics the inquiry shifts to form. Latin rendered it substantia and essentia, and Christian theology used it for the one nature of the Trinity.",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "oo-SEE-ah",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Aristotle's metaphysics",
+   "url": "https://plato.stanford.edu/entries/aristotle-metaphysics/"
+  }
+ },
+ {
+  "id": "t-ataraxia",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ἀταραξία",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "ataraxía",
+  "translation": "untroubledness, tranquillity",
+  "context": "Ataraxia is freedom from mental disturbance, the goal shared by Epicureans and Sceptics. Epicurus sought it by removing the fear of death and of gods; the Sceptics by suspending judgement (epochē), after which tranquillity follows 'like a shadow'.",
+  "person": "Diogenes Laërtius",
+  "source": {
+   "work": "Lives of the Philosophers",
+   "citation": "9.107",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "τέλος δὲ οἱ σκεπτικοί φασι τὴν ἐποχήν, ᾗ σκιᾶς τρόπον ἐπακολουθεῖ ἡ ἀταραξία",
+   "translation": "The Sceptics say the goal is suspension of judgement, which tranquillity follows like a shadow."
+  },
+  "respelling": "ah-tah-rak-SEE-ah",
+  "image": {
+   "src": "img/p/epicurus.webp",
+   "alt": "Portrait of Epicurus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "CC BY-SA 2.5",
+   "credit": "Eric Gaba · CC BY-SA 2.5 · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Epicurus_Louvre.jpg",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Ataraxia",
+   "url": "https://en.wikipedia.org/wiki/Ataraxia"
+  }
+ },
+ {
+  "id": "t-apatheia",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ἀπάθεια",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "apátheia",
+  "translation": "freedom from passion",
+  "context": "The Stoic sage is free of the pathē, the irrational passions such as fear, grief and lust, which the Stoics thought were mistaken judgements. Apatheia is not indifference: the wise still have 'good feelings' like joy. The English 'apathy' has lost this sense.",
+  "person": "The Stoics",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ah-PAH-thay-ah",
+  "image": {
+   "src": "img/p/epictetus.webp",
+   "alt": "Portrait of Epictetus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "William Sonmans / Michael Burghers · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Stoicism",
+   "url": "https://plato.stanford.edu/entries/stoicism/"
+  }
+ },
+ {
+  "id": "t-epoche",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ἐποχή",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "epochḗ",
+  "translation": "suspension, holding back",
+  "context": "The Pyrrhonian Sceptics answered every claim with an equally strong counter-claim and so 'held back' from assent. Husserl revived the word in the 20th century for bracketing the question of whether the world exists, in order to describe experience exactly.",
+  "person": "Pyrrho",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "eh-po-KHAY",
+  "image": {
+   "src": "img/p/pyrrho.webp",
+   "alt": "Portrait of Pyrrho",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Unknown authorUnknown author · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Pyrrho_in_Thomas_Stanley_History_of_Philosophy.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Ancient scepticism",
+   "url": "https://plato.stanford.edu/entries/skepticism-ancient/"
+  }
+ },
+ {
+  "id": "t-oikeiosis",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "οἰκείωσις",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "oikeíōsis",
+  "translation": "appropriation, making one's own",
+  "context": "Stoic ethics starts from oikeiōsis: every animal from birth treats itself as its own and cares for its survival. In humans this concern widens, like circles round the self, to family, city and finally all humanity. It grounds Stoic cosmopolitanism.",
+  "person": "The Stoics",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "oy-KAY-oh-sis",
+  "image": {
+   "src": "img/p/epictetus.webp",
+   "alt": "Portrait of Epictetus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "William Sonmans / Michael Burghers · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Oikeiôsis",
+   "url": "https://en.wikipedia.org/wiki/Oikei%C3%B4sis"
+  }
+ },
+ {
+  "id": "t-zoon-politikon",
+  "type": "term",
+  "era": "greek",
+  "unit": 2,
+  "greek": "ζῷον πολιτικόν",
+  "lang": "grc",
+  "language": "Ancient Greek",
+  "translit": "zōion politikón",
+  "translation": "political animal",
+  "context": "Aristotle defines the human being as an animal made by nature for life in a polis. Anyone who can live without a city is either a beast or a god. Speech (logos), which lets us share ideas of the just and unjust, is what makes us political.",
+  "person": "Aristotle",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ZOH-on poh-lee-tee-KON",
+  "image": {
+   "src": "img/p/aristotle.webp",
+   "alt": "Portrait of Aristotle",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Lysippos · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Aristotle's political theory",
+   "url": "https://plato.stanford.edu/entries/aristotle-politics/"
+  }
+ },
+ {
+  "id": "t-tabula-rasa",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "tabula rasa",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "scraped tablet, blank slate",
+  "context": "The idea that the mind begins with no content of its own goes back to Aristotle, who compared the intellect to a writing tablet with nothing written on it. Medieval Latin called it tabula rasa. Locke made it the emblem of empiricism: all ideas come from experience.",
+  "person": "Aristotle · Locke",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "TAH-boo-lah RAH-sah",
+  "image": {
+   "src": "img/p/locke.webp",
+   "alt": "Portrait of Locke",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Godfrey Kneller · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Tabula rasa",
+   "url": "https://en.wikipedia.org/wiki/Tabula_rasa"
+  }
+ },
+ {
+  "id": "t-a-priori",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "a priori",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "from what is earlier",
+  "context": "A priori knowledge is known independently of experience, as in mathematics or logic; a posteriori knowledge depends on it. Scholastics used the terms for reasoning from causes to effects and back. Kant reshaped them and asked how synthetic a priori judgements are possible.",
+  "person": "Kant",
+  "source": {
+   "work": "Critique of Pure Reason",
+   "citation": "B Introduction §V",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "In allen theoretischen Wissenschaften der Vernunft sind synthetische Urteile a priori als Prinzipien enthalten",
+   "translation": "In all theoretical sciences of reason synthetic judgements a priori are contained as principles."
+  },
+  "respelling": "ah pree-OR-ee",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "A priori and a posteriori",
+   "url": "https://plato.stanford.edu/entries/apriori/"
+  }
+ },
+ {
+  "id": "t-haecceitas",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "haecceitas",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "'thisness'",
+  "context": "Duns Scotus asked what makes an individual this one and not another. His answer was a haecceitas, a positive principle of individuality distinct from the shared nature. The term has been revived in modern metaphysics for primitive identity.",
+  "person": "Duns Scotus",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "haik-KAY-ee-tahs",
+  "image": {
+   "src": "img/p/duns-scotus.webp",
+   "alt": "Portrait of Duns Scotus",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Justus van Gent / Pedro Berruguete · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Scoto_(Duns_Scoto).jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Medieval individuation",
+   "url": "https://plato.stanford.edu/entries/medieval-haecceity/"
+  }
+ },
+ {
+  "id": "t-quidditas",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "quidditas",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "'whatness', essence",
+  "context": "Quidditas is what a thing is: the answer to 'what is it?' (quid est?). Latin scholastics coined it to render Arabic and Greek terms for essence. Aquinas uses it for the essence expressed by a definition, as distinct from a thing's existence (esse).",
+  "person": "Aquinas",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "KWID-dih-tahs",
+  "image": {
+   "src": "img/p/aquinas.webp",
+   "alt": "Portrait of Aquinas",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Carlo Crivelli · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Quiddity",
+   "url": "https://en.wikipedia.org/wiki/Quiddity"
+  }
+ },
+ {
+  "id": "t-actus-purus",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "actus purus",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "pure act",
+  "context": "Aquinas, following Aristotle, describes God as pure actuality, with no unrealised potential. Since change is passing from potential to actual, God cannot change, lack anything, or be composed of parts. It is the Latin heir of Aristotle's unmoved mover.",
+  "person": "Aquinas",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "AHK-toos POO-roos",
+  "image": {
+   "src": "img/p/aquinas.webp",
+   "alt": "Portrait of Aquinas",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Carlo Crivelli · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Actus purus",
+   "url": "https://en.wikipedia.org/wiki/Actus_purus"
+  }
+ },
+ {
+  "id": "t-esse",
+  "type": "term",
+  "era": "latin",
+  "unit": 3,
+  "greek": "esse",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "to be; existence",
+  "context": "For Aquinas a creature's essence (what it is) is distinct from its esse (that it is). Only in God are they identical: God is ipsum esse subsistens, subsisting being itself. The distinction, prepared by Avicenna, is central to Thomist metaphysics.",
+  "person": "Aquinas",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ES-seh",
+  "image": {
+   "src": "img/p/aquinas.webp",
+   "alt": "Portrait of Aquinas",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Carlo Crivelli · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Aquinas",
+   "url": "https://plato.stanford.edu/entries/aquinas/"
+  }
+ },
+ {
+  "id": "t-cogito",
+  "type": "term",
+  "era": "latin",
+  "unit": 4,
+  "greek": "cogito, ergo sum",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "I think, therefore I am",
+  "context": "Descartes doubts everything that can be doubted, even mathematics, and finds one thing he cannot: that he is thinking, and so exists. He first wrote it in French in the Discourse on Method; the Latin form appears in the Principles of Philosophy. It became the founding certainty of modern philosophy.",
+  "person": "Descartes",
+  "source": {
+   "work": "Discourse on Method",
+   "citation": "Part 4 (1637)",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 13846",
+  "quote": {
+   "text": "je pense, donc je suis",
+   "translation": "I think, therefore I am."
+  },
+  "respelling": "KOH-gih-toh, ER-goh SOOM",
+  "image": {
+   "src": "img/p/descartes.webp",
+   "alt": "Portrait of Descartes",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Frans Hals · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Descartes' epistemology",
+   "url": "https://plato.stanford.edu/entries/descartes-epistemology/"
+  }
+ },
+ {
+  "id": "t-res-cogitans",
+  "type": "term",
+  "era": "latin",
+  "unit": 4,
+  "greek": "res cogitans",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "thinking thing",
+  "context": "Descartes divides reality into two substances: res cogitans, mind, whose essence is thought, and res extensa, matter, whose essence is extension in space. How the two interact in a human being became the mind–body problem.",
+  "person": "Descartes",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "RAYS KOH-gih-tahns",
+  "image": {
+   "src": "img/p/descartes.webp",
+   "alt": "Portrait of Descartes",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "After Frans Hals · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Mind–body dualism",
+   "url": "https://plato.stanford.edu/entries/dualism/"
+  }
+ },
+ {
+  "id": "t-conatus",
+  "type": "term",
+  "era": "latin",
+  "unit": 4,
+  "greek": "conatus",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "striving, endeavour",
+  "context": "Spinoza holds that each thing, as far as it can, strives to persevere in its being, and that this striving is its very essence. Desire, joy and sadness are all variations of it. Hobbes and Leibniz used the term too, but Spinoza's version is the best known.",
+  "person": "Spinoza",
+  "source": {
+   "work": "Ethics",
+   "citation": "III, prop. 6",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
+  "quote": {
+   "text": "Unaquæque res quantum in se est, in suo esse perseverare conatur.",
+   "translation": "Each thing, as far as it is in itself, strives to persevere in its being."
+  },
+  "respelling": "koh-NAH-toos",
+  "image": {
+   "src": "img/p/spinoza.webp",
+   "alt": "Portrait of Spinoza",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "anonymous · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Spinoza's psychology",
+   "url": "https://plato.stanford.edu/entries/spinoza-psychological/"
+  }
+ },
+ {
+  "id": "t-deus-sive-natura",
+  "type": "term",
+  "era": "latin",
+  "unit": 4,
+  "greek": "Deus sive Natura",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "God, or Nature",
+  "context": "Spinoza identifies God with the one infinite substance of which everything is a mode. 'God or Nature' means they are two names for the same thing. The Latin Library text quoted below spells it 'seu', a synonym of 'sive'. Readers have called the view atheism, pantheism, or the most rigorous theology ever written.",
+  "person": "Spinoza",
+  "source": {
+   "work": "Ethics",
+   "citation": "IV, preface",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
+  "quote": {
+   "text": "Ratio igitur seu causa cur Deus seu Natura agit et cur existit una eademque est.",
+   "translation": "So the reason or cause why God, or Nature, acts and why it exists is one and the same."
+  },
+  "respelling": "DAY-oos SEE-weh nah-TOO-rah",
+  "image": {
+   "src": "img/p/spinoza.webp",
+   "alt": "Portrait of Spinoza",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "anonymous · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Spinoza",
+   "url": "https://plato.stanford.edu/entries/spinoza/"
+  }
+ },
+ {
+  "id": "t-monade",
+  "type": "term",
+  "era": "french",
+  "unit": 4,
+  "greek": "monade",
+  "lang": "fr",
+  "language": "French",
+  "translit": "",
+  "translation": "unit (from Greek monas)",
+  "context": "Leibniz's monads are simple, partless substances, the ultimate constituents of reality. They have no windows: nothing enters or leaves them, and each mirrors the whole universe from its own point of view. Their harmony is pre-established by God.",
+  "person": "Leibniz",
+  "source": {
+   "work": "Monadology",
+   "citation": "§1",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 17641 (1909 ed.)",
+  "quote": {
+   "text": "La Monade, dont nous parlerons ici, n'est autre chose, qu'une substance simple, qui entre dans les composés; simple, c'est-à-dire sans parties.",
+   "translation": "The Monad we shall speak of here is nothing but a simple substance that enters into composites; simple, that is, without parts."
+  },
+  "respelling": "moh-NAD",
+  "image": {
+   "src": "img/p/leibniz.webp",
+   "alt": "Portrait of Leibniz",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Christoph Bernhard Francke · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Leibniz",
+   "url": "https://plato.stanford.edu/entries/leibniz/"
+  }
+ },
+ {
+  "id": "t-ding-an-sich",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "Ding an sich",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "thing in itself",
+  "context": "Kant argues that we know objects only as they appear to us, shaped by the forms of space and time and the categories of the understanding. What things are in themselves, apart from our experience, we can think but never know. Fichte and Hegel rejected the idea as incoherent.",
+  "person": "Kant",
+  "source": {
+   "work": "Critique of Pure Reason",
+   "citation": "B Preface, Bxxvii",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "das Objekt in zweierlei Bedeutung nehmen lehrt, nämlich als Erscheinung, oder als Ding an sich selbst",
+   "translation": "[it] teaches us to take the object in two senses, namely as appearance or as thing in itself."
+  },
+  "respelling": "DING ahn ZIKH",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's transcendental idealism",
+   "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/"
+  }
+ },
+ {
+  "id": "t-erscheinung",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "Erscheinung",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "appearance",
+  "context": "For Kant an Erscheinung is an object as it is given to us in experience: in space and time and ordered by the categories. Appearances are not illusions; they are the only objects of possible knowledge. They contrast with things in themselves.",
+  "person": "Kant",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "er-SHY-noong",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's transcendental idealism",
+   "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/"
+  }
+ },
+ {
+  "id": "t-anschauung",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "Anschauung",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "intuition, looking-at",
+  "context": "An Anschauung is a direct, singular representation of an object, given through the senses. Kant insists that knowledge needs both intuitions and concepts: the senses give, the understanding thinks. Space and time are the pure forms of human intuition.",
+  "person": "Kant",
+  "source": {
+   "work": "Critique of Pure Reason",
+   "citation": "A51/B75",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.",
+   "translation": "Thoughts without content are empty, intuitions without concepts are blind."
+  },
+  "respelling": "AHN-show-oong",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's theory of judgment",
+   "url": "https://plato.stanford.edu/entries/kant-judgment/"
+  }
+ },
+ {
+  "id": "t-apperzeption",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "transzendentale Apperzeption",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "transcendental apperception",
+  "context": "The unity of self-consciousness that makes experience possible. Every representation I have must be able to be accompanied by 'I think', or it would be nothing to me. Kant calls this the highest point of all use of the understanding.",
+  "person": "Kant",
+  "source": {
+   "work": "Critique of Pure Reason",
+   "citation": "§16, B131",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "Das: Ich denke, muß alle meine Vorstellungen begleiten können",
+   "translation": "The 'I think' must be able to accompany all my representations."
+  },
+  "respelling": "trans-tsen-den-TAH-leh ah-per-tsep-TSYOHN",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's view of the mind",
+   "url": "https://plato.stanford.edu/entries/kant-mind/"
+  }
+ },
+ {
+  "id": "t-kategorischer-imperativ",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "kategorischer Imperativ",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "categorical imperative",
+  "context": "A moral command that binds unconditionally, whatever you want, unlike 'if you want X, do Y'. Kant's first formula: act only on a maxim you could will to become a universal law. Another: treat humanity never merely as a means but always also as an end.",
+  "person": "Kant",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "kah-teh-GOR-ish-er im-peh-rah-TEEF",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's moral philosophy",
+   "url": "https://plato.stanford.edu/entries/kant-moral/"
+  }
+ },
+ {
+  "id": "t-aufklaerung",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "Aufklärung",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "clearing up; enlightenment",
+  "context": "Kant's 1784 essay defines enlightenment as leaving behind a self-incurred immaturity: the inability to use one's own understanding without another's guidance. Its motto is 'Sapere aude!', dare to know. The word also names the whole 18th-century movement.",
+  "person": "Kant",
+  "source": {
+   "work": "Was ist Aufklärung?",
+   "citation": "Berlinische Monatsschrift, 1784",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against German Wikisource",
+  "quote": {
+   "text": "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit.",
+   "translation": "Enlightenment is man's emergence from his self-incurred immaturity."
+  },
+  "respelling": "OWF-klair-oong",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "What is Enlightenment?",
+   "url": "https://en.wikipedia.org/wiki/Answering_the_Question:_What_Is_Enlightenment%3F"
+  }
+ },
+ {
+  "id": "t-erhabene",
+  "type": "term",
+  "era": "german",
+  "unit": 5,
+  "greek": "das Erhabene",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "the sublime",
+  "context": "In the Critique of Judgement Kant separates the beautiful, which pleases by harmony, from the sublime: the overwhelming feeling before a raging storm at sea or towering mountains. We feel small, but then discover in ourselves a reason greater than any nature.",
+  "person": "Kant",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "dahs er-HAH-beh-neh",
+  "image": {
+   "src": "img/p/kant.webp",
+   "alt": "Portrait of Kant",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Johann Gottlieb Becker (1720-1782) · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Kant's aesthetics",
+   "url": "https://plato.stanford.edu/entries/kant-aesthetics/"
+  }
+ },
+ {
+  "id": "t-ubermensch",
+  "type": "term",
+  "era": "german",
+  "unit": 7,
+  "greek": "Übermensch",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "over-human, overman",
+  "context": "Zarathustra announces the Übermensch as the goal for humanity after the death of God: a being who creates values instead of receiving them. Humanity is a rope stretched between animal and overman. The Nazis later misused the word; Nietzsche despised nationalism and anti-Semitism.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Also sprach Zarathustra",
+   "citation": "Prologue §3",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7205",
+  "quote": {
+   "text": "Ich lehre euch den Übermenschen. Der Mensch ist Etwas, das überwunden werden soll.",
+   "translation": "I teach you the overman. Man is something that shall be overcome."
+  },
+  "respelling": "OO-ber-mensh",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Übermensch",
+   "url": "https://en.wikipedia.org/wiki/%C3%9Cbermensch"
+  }
+ },
+ {
+  "id": "t-wille-zur-macht",
+  "type": "term",
+  "era": "german",
+  "unit": 7,
+  "greek": "Wille zur Macht",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "will to power",
+  "context": "Nietzsche's name for the basic drive of all life: not merely to survive but to grow, expand and master. Self-preservation is only one of its consequences. He applied it to biology, psychology and morality alike, and saw philosophy itself as its most spiritual form.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Jenseits von Gut und Böse",
+   "citation": "§13",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7204",
+  "quote": {
+   "text": "Leben selbst ist Wille zur Macht",
+   "translation": "Life itself is will to power."
+  },
+  "respelling": "VIL-leh tsoor MAKHT",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Nietzsche",
+   "url": "https://plato.stanford.edu/entries/nietzsche/"
+  }
+ },
+ {
+  "id": "t-ewige-wiederkunft",
+  "type": "term",
+  "era": "german",
+  "unit": 7,
+  "greek": "ewige Wiederkunft",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "eternal return",
+  "context": "Suppose this life, every detail of it, were to recur again and again without end. Nietzsche presents this thought as a test: could you will it? Only someone who wholly affirms life could say yes. Zarathustra is called 'the teacher of the eternal return'.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Also sprach Zarathustra",
+   "citation": "III, 'The Convalescent'",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7205",
+  "quote": {
+   "text": "siehe, du bist der Lehrer der ewigen Wiederkunft",
+   "translation": "Behold, you are the teacher of the eternal return."
+  },
+  "respelling": "AY-vih-geh VEE-der-koonft",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Eternal return",
+   "url": "https://en.wikipedia.org/wiki/Eternal_return"
+  }
+ },
+ {
+  "id": "t-amor-fati",
+  "type": "term",
+  "era": "latin",
+  "unit": 7,
+  "greek": "amor fati",
+  "lang": "la",
+  "language": "Latin",
+  "translit": "",
+  "translation": "love of fate",
+  "context": "Nietzsche's formula for human greatness: to want nothing to be different, forward or backward, for all eternity. Not only to bear what is necessary but to love it. The phrase is Latin, but the idea is his own.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Ecce homo",
+   "citation": "'Why I Am So Clever' §10",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7202",
+  "quote": {
+   "text": "Meine Formel für die Grösse am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht.",
+   "translation": "My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity."
+  },
+  "respelling": "AH-mor FAH-tee",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Amor fati",
+   "url": "https://en.wikipedia.org/wiki/Amor_fati"
+  }
+ },
+ {
+  "id": "t-ressentiment",
+  "type": "term",
+  "era": "french",
+  "unit": 7,
+  "greek": "ressentiment",
+  "lang": "fr",
+  "language": "French",
+  "translit": "",
+  "translation": "resentment",
+  "context": "Nietzsche used the French word for the festering, impotent hatred of the weak toward the strong. Unable to act, they take revenge in imagination by calling the strong 'evil' and themselves 'good'. He traced Christian morality to this 'slave revolt in morals'.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Götzen-Dämmerung",
+   "citation": "'What I Owe the Ancients' §4",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7203",
+  "quote": {
+   "text": "Erst das Christenthum, mit seinem Ressentiment gegen das Leben auf dem Grunde, hat aus der Geschlechtlichkeit etwas Unreines gemacht",
+   "translation": "Only Christianity, with its ressentiment against life at bottom, made sexuality something impure."
+  },
+  "respelling": "ruh-sahn-tee-MAHN",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Nietzsche's moral philosophy",
+   "url": "https://plato.stanford.edu/entries/nietzsche-moral-political/"
+  }
+ },
+ {
+  "id": "t-apollinisch",
+  "type": "term",
+  "era": "german",
+  "unit": 7,
+  "greek": "apollinisch / dionysisch",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "Apollonian / Dionysian",
+  "context": "In The Birth of Tragedy Nietzsche explains Greek tragedy as a union of two drives. The Apollonian is the drive to form, measure and beautiful illusion, like a dream; the Dionysian is ecstatic, boundary-dissolving intoxication. Tragedy lets us glimpse the terrible truth of existence and still affirm it.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ah-poh-LEE-nish / dee-oh-NOO-zish",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Apollonian and Dionysian",
+   "url": "https://en.wikipedia.org/wiki/Apollonian_and_Dionysian"
+  }
+ },
+ {
+  "id": "t-gott-ist-tot",
+  "type": "term",
+  "era": "german",
+  "unit": 7,
+  "greek": "Gott ist tot",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "God is dead",
+  "context": "Nietzsche's diagnosis of modern Europe: belief in the Christian God has become unbelievable, and with it the foundation of Western values has collapsed, even if people have not yet noticed. The danger is nihilism; the task is a revaluation of all values.",
+  "person": "Nietzsche",
+  "source": {
+   "work": "Also sprach Zarathustra",
+   "citation": "II, 'On the Pitying'",
+   "date": ""
+  },
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7205",
+  "quote": {
+   "text": "Gott ist todt; an seinem Mitleiden mit den Menschen ist Gott gestorben.",
+   "translation": "God is dead; God has died of his pity for man."
+  },
+  "respelling": "GOT ist TOHT",
+  "image": {
+   "src": "img/p/nietzsche.webp",
+   "alt": "Portrait of Nietzsche",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Friedrich Hermann Hartmann · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "God is dead",
+   "url": "https://en.wikipedia.org/wiki/God_is_dead"
+  }
+ },
+ {
+  "id": "t-dasein",
+  "type": "term",
+  "era": "german",
+  "unit": 9,
+  "greek": "Dasein",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "being-there, existence",
+  "context": "Heidegger's word for the kind of being that we ourselves are: the being for whom its own being is an issue. He avoids 'consciousness' or 'subject' because Dasein is always already in a world, among things and others. In ordinary German it just means 'existence'.",
+  "person": "Heidegger",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "DAH-zine",
+  "image": {
+   "src": "img/p/heidegger.webp",
+   "alt": "Portrait of Heidegger",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "CC BY 4.0",
+   "credit": "Willy Pragher · CC BY 4.0 · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Freiburg,_Z%C3%A4hringen-_Jahnhalle,_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_(cropped).jpeg",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Heidegger",
+   "url": "https://plato.stanford.edu/entries/heidegger/"
+  }
+ },
+ {
+  "id": "t-in-der-welt-sein",
+  "type": "term",
+  "era": "german",
+  "unit": 9,
+  "greek": "In-der-Welt-sein",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "being-in-the-world",
+  "context": "Dasein is not a mind looking out at a world of objects; it is from the start absorbed in a world of tasks and tools. The hyphens mark a single unified phenomenon. A hammer is first encountered in use, ready-to-hand, not as a thing with properties.",
+  "person": "Heidegger",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "in-dair-VELT-zine",
+  "image": {
+   "src": "img/p/heidegger.webp",
+   "alt": "Portrait of Heidegger",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "CC BY 4.0",
+   "credit": "Willy Pragher · CC BY 4.0 · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Freiburg,_Z%C3%A4hringen-_Jahnhalle,_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_(cropped).jpeg",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Being and Time",
+   "url": "https://en.wikipedia.org/wiki/Being_and_Time"
+  }
+ },
+ {
+  "id": "t-sein-zum-tode",
+  "type": "term",
+  "era": "german",
+  "unit": 9,
+  "greek": "Sein zum Tode",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "being-toward-death",
+  "context": "Death is Dasein's ownmost possibility: no one can die my death for me. By facing it in anxiety rather than fleeing into 'they say everyone dies', Dasein can live authentically, owning its finite life.",
+  "person": "Heidegger",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "ZINE tsoom TOH-deh",
+  "image": {
+   "src": "img/p/heidegger.webp",
+   "alt": "Portrait of Heidegger",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "CC BY 4.0",
+   "credit": "Willy Pragher · CC BY 4.0 · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Freiburg,_Z%C3%A4hringen-_Jahnhalle,_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_(cropped).jpeg",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Heidegger",
+   "url": "https://iep.utm.edu/heidegge/"
+  }
+ },
+ {
+  "id": "t-sprachspiel",
+  "type": "term",
+  "era": "analytic",
+  "unit": 11,
+  "greek": "Sprachspiel",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "language-game",
+  "context": "Late Wittgenstein compares using words to playing games: there is no single essence of language, only many activities bound up with forms of life, such as giving orders, telling jokes, praying. The meaning of a word is its use in the language.",
+  "person": "Wittgenstein",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "SHPRAKH-shpeel",
+  "image": {
+   "src": "img/p/wittgenstein.webp",
+   "alt": "Portrait of Wittgenstein",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Moritz Nähr · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_1929.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Wittgenstein",
+   "url": "https://plato.stanford.edu/entries/wittgenstein/"
+  }
+ },
+ {
+  "id": "t-familienahnlichkeit",
+  "type": "term",
+  "era": "analytic",
+  "unit": 11,
+  "greek": "Familienähnlichkeit",
+  "lang": "de",
+  "language": "German",
+  "translit": "",
+  "translation": "family resemblance",
+  "context": "What do all games have in common? Nothing, says Wittgenstein: only overlapping similarities, like the resemblances among members of a family. Many concepts work this way, so asking for a strict definition can be a mistake.",
+  "person": "Wittgenstein",
+  "source": {
+   "work": "",
+   "citation": "",
+   "date": ""
+  },
+  "attribution_confidence": "",
+  "attribution_note": "",
+  "quote": null,
+  "respelling": "fah-MEEL-yen-AYN-likh-kite",
+  "image": {
+   "src": "img/p/wittgenstein.webp",
+   "alt": "Portrait of Wittgenstein",
+   "kind": "painting",
+   "aspect": "3:4",
+   "transparent": false,
+   "license": "Public domain",
+   "credit": "Moritz Nähr · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_1929.jpg",
+   "license_url": "",
+   "modified": "cropped to 3:4, resized"
+  },
+  "learn_more": {
+   "label": "Family resemblance",
+   "url": "https://en.wikipedia.org/wiki/Family_resemblance"
+  }
+ }
+]

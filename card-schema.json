@@ -1,0 +1,10 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Lexis card","type":"object",
+"required":["id","type","era","unit","greek","lang","translation","context","person","respelling","source","image","learn_more"],
+"properties":{"id":{"type":"string","pattern":"^t-[a-z0-9-]+$"},"type":{"const":"term"},
+"era":{"enum":["greek","latin","early_modern","german","french","analytic","eastern"]},"unit":{"type":"integer","minimum":1,"maximum":12},
+"greek":{"type":"string","minLength":1},"lang":{"enum":["grc","la","de","fr","da","zh","sa","ar"]},"translit":{"type":"string"},
+"translation":{"type":"string","minLength":2},"context":{"type":"string","minLength":80},"person":{"type":"string","minLength":2},"respelling":{"type":"string","minLength":2},
+"source":{"type":"object","required":["work","citation"]},"attribution_confidence":{"enum":["verified",""]},
+"quote":{"anyOf":[{"type":"null"},{"type":"object","required":["text","translation"]}]},
+"image":{"type":"object","required":["src","alt","kind","license","credit","source_url"],"properties":{"license":{"pattern":"^(Public domain|PD|CC0|CC BY(-SA)? [0-9.]+)","not":{"pattern":"NC|ND"}},"source_url":{"not":{"pattern":"British_Museum|_BM_"}}}},
+"learn_more":{"type":"object","required":["label","url"],"properties":{"url":{"pattern":"^https://(plato\\.stanford\\.edu|iep\\.utm\\.edu|en\\.wikipedia\\.org)/"}}}}}
