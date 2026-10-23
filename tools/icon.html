@@ -1,5 +1,6 @@
 <!doctype html><link rel="stylesheet" href="../fonts/fonts.css"><style>body{margin:0}
-/* Same layout as Lingua/Glossa: solid colour square, name centred at ~80% width. Colours/font = Lexis placeholder theme. */
-.i{width:1024px;height:1024px;background:#1F2430;display:grid;place-items:center}
-.t{font:700 288px/1 "Gentium Book Plus",Georgia,serif;letter-spacing:.06em;margin-left:.06em;color:#F4F0E6}</style>
+/* Same layout as Lingua/Glossa: solid square, name centred at 80% width. Ink & Parchment. */
+.i{width:1024px;height:1024px;background:linear-gradient(180deg,#1F2430,#181C26);display:grid;place-items:center}
+.t{font:600 300px/1 "Cormorant Garamond",Georgia,serif;letter-spacing:.06em;margin-left:.06em;color:#F4EEDF;white-space:nowrap}</style>
 <div class="i"><div class="t" id="t">LEXIS</div></div>
+<script>document.fonts.ready.then(()=>{const t=document.getElementById('t');const w=t.getBoundingClientRect().width;t.style.fontSize=(300*819/w)+'px';document.body.dataset.ok=1})</script>

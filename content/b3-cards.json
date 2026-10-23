@@ -94,13 +94,16 @@
   "context": "How can someone know what is best and still do worse? Socrates denied it was possible: wrongdoing is ignorance. Aristotle answered that the akratic person knows in a way but not in the way that governs action, as a drunk may recite verses he does not understand.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Nicomachean Ethics",
+   "citation": "7.1, 1145a16",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "τῶν περὶ τὰ ἤθη φευκτῶν τρία ἐστὶν εἴδη, κακία ἀκρασία θηριότης",
+   "translation": "of the things to be avoided in character there are three kinds: vice, lack of self-control, brutishness."
+  },
   "respelling": "ah-krah-SEE-ah",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -132,13 +135,16 @@
   "context": "For Homer the psychē is the breath-soul that leaves at death. Socrates made care of the psychē the whole task of life; Plato divided it into reason, spirit and appetite. Aristotle defined it as the form of a living body, so plants have souls too.",
   "person": "Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Apology",
+   "citation": "29e",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "φρονήσεως δὲ καὶ ἀληθείας καὶ τῆς ψυχῆς ὅπως ὡς βελτίστη ἔσται οὐκ ἐπιμελῇ οὐδὲ φροντίζεις;",
+   "translation": "but for wisdom and truth, and for how your soul may be as good as possible, you do not care or give a thought?"
+  },
   "respelling": "psoo-KHAY",
   "image": {
    "src": "img/p/plato.webp",
@@ -170,13 +176,16 @@
   "context": "Parmenides set the 'way of truth' against the 'opinions of mortals'. Plato's divided line puts doxa below knowledge: it concerns the changing world of the senses and may be true, but cannot give its reasons. The word also meant 'glory'.",
   "person": "Parmenides · Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Republic",
+   "citation": "5.478c",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "οὔτε ἄρα ἄγνοια οὔτε γνῶσις δόξα ἂν εἴη;",
+   "translation": "Then opinion would be neither ignorance nor knowledge?"
+  },
   "respelling": "DOK-sah",
   "image": {
    "src": "img/p/plato.webp",
@@ -208,13 +217,16 @@
   "context": "Sōphrosynē is self-knowledge and self-control together: the harmony in which reason rules and the desires agree. In the Republic it is the virtue by which the parts of the soul, and the classes of the city, agree about who should rule.",
   "person": "Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Republic",
+   "citation": "4.430e",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "κόσμος πού τις, ἦν δ' ἐγώ, ἡ σωφροσύνη ἐστὶν καὶ ἡδονῶν τινων καὶ ἐπιθυμιῶν ἐγκράτεια",
+   "translation": "Temperance, I said, is a kind of order, a mastery of certain pleasures and desires."
+  },
   "respelling": "soh-froh-SOO-nay",
   "image": {
    "src": "img/p/plato.webp",
@@ -246,13 +258,16 @@
   "context": "Anselm's motto: the believer does not reason in order to believe but believes and then seeks to understand. His Proslogion, originally titled with this phrase, contains the ontological argument: God is that than which nothing greater can be thought.",
   "person": "Anselm",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Proslogion",
+   "citation": "Preface",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
+  "quote": {
+   "text": "ut prius Exemplum meditandi de ratione fidei, et sequens Fides quaerens intellectum diceretur",
+   "translation": "that the first should be called 'An Example of Meditating on the Reason of Faith' and the next 'Faith Seeking Understanding'."
+  },
   "respelling": "FEE-days KWAI-rens in-tel-LEK-toom",
   "image": {
    "src": "img/p/anselm.webp",
@@ -284,13 +299,16 @@
   "context": "Anselm's companion formula to fides quaerens intellectum, echoing Augustine: understanding is the reward of faith, not its precondition. It sums up the early scholastic view of the relation between reason and revelation.",
   "person": "Anselm",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Proslogion",
+   "citation": "ch. 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
+  "quote": {
+   "text": "Neque enim quaero intelligere ut credam, sed credo ut intelligam.",
+   "translation": "For I do not seek to understand so that I may believe; I believe so that I may understand."
+  },
   "respelling": "KRAY-doh oot in-TEL-lih-gahm",
   "image": {
    "src": "img/p/anselm.webp",
@@ -512,13 +530,16 @@
   "context": "Writing after the sack of Rome in 410, Augustine describes two cities formed by two loves: love of self to the contempt of God, and love of God to the contempt of self. History is the story of their mingling until the end of time.",
   "person": "Augustine",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De civitate Dei",
+   "citation": "XIV.28",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
+  "quote": {
+   "text": "Fecerunt itaque ciuitates duas amores duo, terrenam scilicet amor sui usque ad contemptum Dei, caelestem uero amor Dei usque ad contemptum sui",
+   "translation": "two loves made two cities: the earthly by love of self to the contempt of God, the heavenly by love of God to the contempt of self."
+  },
   "respelling": "KEE-wih-tahs DAY-ee",
   "image": {
    "src": "img/p/augustine.webp",
@@ -555,7 +576,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
   "quote": {
    "text": "erit itaque causa sui id est (per definitionem 1) ipsius essentia involvit necessario existentiam sive ad ejus naturam pertinet existere.",
    "translation": "It will therefore be cause of itself, that is (by Def. 1), its essence necessarily involves existence, or existence belongs to its nature."
@@ -596,7 +617,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
   "quote": {
    "text": "Quicquid mens sub specie æternitatis intelligit, id ex eo non intelligit quod corporis præsentem actualem existentiam concipit",
    "translation": "Whatever the mind understands under the aspect of eternity, it understands not from conceiving the body's present actual existence"
@@ -637,7 +658,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against The Latin Library",
   "quote": {
    "text": "Amor Dei intellectualis qui ex tertio cognitionis genere oritur, est æternus.",
    "translation": "The intellectual love of God, which arises from the third kind of knowledge, is eternal."
@@ -714,13 +735,16 @@
   "context": "Leibniz's principle that nothing happens without a reason why it is so and not otherwise. With the principle of contradiction it is one of the two great principles of reasoning. It leads him to God as the sufficient reason of the whole series of things.",
   "person": "Leibniz",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Monadologie",
+   "citation": "§ 32",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 17641 (1909 ed.)",
+  "quote": {
+   "text": "nous considérons qu'aucun fait ne saurait se trouver vrai ou existant, aucune énontiation véritable, sans qu'il y ait une raison suffisante pourquoi il en soit ainsi et non pas autrement",
+   "translation": "we hold that no fact can be true or existent, no statement true, unless there is a sufficient reason why it is so and not otherwise."
+  },
   "respelling": "ray-ZOHN soo-fee-ZAHNT",
   "image": {
    "src": "img/p/leibniz.webp",
@@ -790,13 +814,16 @@
   "context": "Rousseau distinguishes the general will, which aims at the common good, from the 'will of all', a mere sum of private interests. In the Social Contract legitimate law expresses the general will, and whoever refuses to obey it 'will be forced to be free'.",
   "person": "Rousseau",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Du contrat social",
+   "citation": "I.6",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (1762 edition)",
+  "quote": {
+   "text": "Chacun de nous met en commun sa personne & toute sa puissance sous la suprême direction de la volonté générale",
+   "translation": "Each of us puts his person and all his power in common under the supreme direction of the general will."
+  },
   "respelling": "voh-lohn-TAY zhay-nay-RAHL",
   "image": {
    "src": "img/p/rousseau.webp",
@@ -866,13 +893,16 @@
   "context": "Hobbes' description of the state of nature: without a common power to keep them in awe, humans live in a condition of war of every one against every one, and life is 'solitary, poor, nasty, brutish, and short'. Only an absolute sovereign brings peace.",
   "person": "Hobbes",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Leviathan",
+   "citation": "ch. 13",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 3207",
+  "quote": {
+   "text": "such a warre, as is of every man, against every man",
+   "translation": "(Original English; the Latin De Cive has 'bellum omnium contra omnes'.)"
+  },
   "respelling": "BEL-loom OM-nee-oom KON-trah OM-nays",
   "image": {
    "src": "img/p/hobbes.webp",
@@ -904,13 +934,16 @@
   "context": "Berkeley's immaterialism: for sensible things, existing just is being perceived. There is no matter behind our ideas. Objects persist when no human looks because God always perceives them.",
   "person": "Berkeley",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "A Treatise Concerning the Principles of Human Knowledge",
+   "citation": "Part I, §3",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 4723",
+  "quote": {
+   "text": "Their ESSE is PERCIPI, nor is it possible they should have any existence out of the minds or thinking things which perceive them.",
+   "translation": "(Original English; capitals mark Berkeley's italics.)"
+  },
   "respelling": "ES-seh est PER-kih-pee",
   "image": {
    "src": "img/p/berkeley.webp",
@@ -983,13 +1016,16 @@
   "context": "When reason tries to know the world as a whole, it proves contradictory theses equally well: the world has a beginning in time, and it has none; there is freedom, and everything is causally determined. Kant's resolution: the arguments mistake appearances for things in themselves.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der reinen Vernunft",
+   "citation": "A 340 / B 398",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "Den Zustand der Vernunft bei diesen dialektischen Schlüssen, werde ich die Antinomie der reinen Vernunft nennen.",
+   "translation": "The state of reason in these dialectical inferences I shall call the antinomy of pure reason."
+  },
   "respelling": "an-tee-noh-MEE",
   "image": {
    "src": "img/p/kant.webp",
@@ -1021,13 +1057,16 @@
   "context": "Instead of assuming that our knowledge must conform to objects, Kant proposes that objects must conform to our knowledge, just as Copernicus explained the heavens by moving the observer. This is why we can know some things a priori. The label is later; Kant himself compares his method to Copernicus' 'first thoughts'.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der reinen Vernunft",
+   "citation": "Preface B xvi",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "Es ist hiermit ebenso, als mit den ersten Gedanken des Kopernikus bewandt",
+   "translation": "It is just the same here as with the first thoughts of Copernicus."
+  },
   "respelling": "koh-per-nee-KAH-nish-eh VEN-deh",
   "image": {
    "src": "img/p/kant.webp",
@@ -1059,13 +1098,16 @@
   "context": "The faculty of thinking the particular under the universal. When the rule is given, judgement is determining; when only the particular is given and a rule must be found, it is reflecting. Kant's third Critique studies reflecting judgement in beauty and in living nature.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der Urtheilskraft",
+   "citation": "Einleitung IV, AA V 179",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "Urtheilskraft überhaupt ist das Vermögen, das Besondere als enthalten unter dem Allgemeinen zu denken.",
+   "translation": "Judgement in general is the faculty of thinking the particular as contained under the universal."
+  },
   "respelling": "OOR-tiles-krahft",
   "image": {
    "src": "img/p/kant.webp",
@@ -1097,13 +1139,16 @@
   "context": "A beautiful flower looks as if designed to please our faculties, yet we judge it beautiful without any concept of what it is for. Kant calls this purposiveness without a purpose: the free play of imagination and understanding.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der Urtheilskraft",
+   "citation": "§ 11, AA V 221",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "Das Geschmacksurtheil hat nichts als die Form der Zweckmäßigkeit eines Gegenstandes (oder der Vorstellungsart desselben) zum Grunde.",
+   "translation": "The judgement of taste has nothing but the form of the purposiveness of an object (or of its mode of representation) as its ground."
+  },
   "respelling": "TSVEK-may-sikh-kite OH-neh TSVEK",
   "image": {
    "src": "img/p/kant.webp",
@@ -1135,13 +1180,16 @@
   "context": "Kant imagines a community of rational beings each of whom is both lawgiver and subject, treating all as ends in themselves. Morality asks us to act as if we were members of such a kingdom. In it everything has either a price or a dignity.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Grundlegung zur Metaphysik der Sitten",
+   "citation": "AA IV 433",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "ein Reich der Zwecke (freilich nur ein Ideal) heißen kann",
+   "translation": "can be called a kingdom of ends (admittedly only an ideal)."
+  },
   "respelling": "RIKHE dair TSVEK-eh",
   "image": {
    "src": "img/p/kant.webp",
@@ -1173,13 +1221,16 @@
   "context": "Hegel's phrase for what is fully developed: no longer merely implicit (an sich) like a seed, nor just set over against itself (für sich), but explicitly what it is in itself. Spirit's journey is from an sich to an und für sich.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Phänomenologie des Geistes",
+   "citation": "Introduction",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "auf ihre Erscheinung vielmehr als darauf, wie sie an und für sich ist",
+   "translation": "on its appearance rather than on how it is in and for itself."
+  },
   "respelling": "ahn oont FUR zikh",
   "image": {
    "src": "img/p/hegel.webp",
@@ -1211,13 +1262,16 @@
   "context": "Self-consciousness, Hegel argues, exists only in being recognised by another self-consciousness. The struggle for recognition drives the lord–bondsman dialectic and, for later thinkers like Honneth, the whole of social and political life.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Phenomenology of Spirit",
+   "citation": "IV.A",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "Sie anerkennen sich als gegenseitig sich anerkennend",
+   "translation": "They recognise themselves as mutually recognising one another."
+  },
   "respelling": "AHN-er-ken-noong",
   "image": {
    "src": "img/p/hegel.webp",
@@ -1591,13 +1645,16 @@
   "context": "The Tractatus opens: the world is everything that is the case, the totality of facts, not of things. Facts are combinations of objects; true propositions picture them. Wittgenstein's logical atomism shared this starting point with Russell.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Tractatus Logico-Philosophicus",
+   "citation": "1.1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 5740 (German text)",
+  "quote": {
+   "text": "Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.",
+   "translation": "The world is the totality of facts, not of things."
+  },
   "respelling": "TAHT-zah-kheh",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -1629,13 +1686,16 @@
   "context": "The early Wittgenstein holds that the logical form of language cannot be said by propositions; it can only show itself in them. Ethics, aesthetics and the meaning of life also lie beyond what can be said. 'Whereof one cannot speak, thereof one must be silent.'",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Tractatus Logico-Philosophicus",
+   "citation": "4.1212",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 5740 (German text)",
+  "quote": {
+   "text": "Was gezeigt werden kann, kann nicht gesagt werden.",
+   "translation": "What can be shown cannot be said."
+  },
   "respelling": "ZAH-gen / TSY-gen",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -1900,7 +1960,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
   "quote": {
    "text": "人不知而不慍，不亦君子乎？",
    "translation": "Not to be resentful when others do not recognise you: is that not to be a noble person?"

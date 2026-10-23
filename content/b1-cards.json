@@ -12,13 +12,16 @@
   "context": "For Heraclitus the logos is the rational order that runs through all change, which most people fail to notice. Later Greek thinkers used the same word for argument, definition and the reasoning faculty itself. The Stoics made it the divine reason pervading the cosmos, and John's Gospel opens with it.",
   "person": "Heraclitus",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives (Heraclitus fr. B45)",
+   "citation": "9.7",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ψυχῆς πείρατα ἰὼν οὐκ ἂν ἐξεύροιο, πᾶσαν ἐπιπορευόμενος ὁδόν· οὕτω βαθὺν λόγον ἔχει",
+   "translation": "You would not find the limits of the soul by going, though you travelled every road: so deep a logos does it have."
+  },
   "respelling": "LOH-goss",
   "image": {
    "src": "img/p/heraclitus.webp",
@@ -50,13 +53,16 @@
   "context": "The first Greek philosophers asked what the archē of everything is: the source from which things come and into which they return. Thales said water, Anaximenes air, Anaximander 'the boundless'. The same word also means 'rule' or 'command', so a first principle is also what governs.",
   "person": "Thales",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives (on Thales)",
+   "citation": "1.27",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "Ἀρχὴν δὲ τῶν πάντων ὕδωρ ὑπεστήσατο",
+   "translation": "He made water the first principle of all things."
+  },
   "respelling": "ar-KHAY",
   "image": {
    "src": "img/p/thales.webp",
@@ -88,13 +94,16 @@
   "context": "Anaximander's candidate for the first principle: not any one element but something without limits or definite character. Opposites like hot and cold separate out of it and pay each other 'penalty' for their injustice. It is the first abstract concept in Western philosophy.",
   "person": "Anaximander",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives (on Anaximander)",
+   "citation": "2.1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον",
+   "translation": "He said that the first principle and element is the boundless."
+  },
   "respelling": "AH-pay-ron",
   "image": {
    "src": "img/p/anaximander.webp",
@@ -126,13 +135,16 @@
   "context": "Physis is the way a thing grows and behaves of its own accord, as opposed to what is made by craft or fixed by custom (nomos). The early thinkers were called physikoi because they studied it. The contrast between physis and nomos drove fifth-century debates about whether justice is natural or conventional.",
   "person": "Presocratics",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Metaphysics",
+   "citation": "Δ.4, 1014b16",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "φύσις λέγεται ἕνα μὲν τρόπον ἡ τῶν φυομένων γένεσις",
+   "translation": "'Nature' means in one sense the genesis of growing things."
+  },
   "respelling": "FOO-sis",
   "image": {
    "src": "img/p/heraclitus.webp",
@@ -164,13 +176,16 @@
   "context": "Nomos covers both written law and unwritten custom. The Sophists set it against physis: some argued that conventional justice restrains the strong against nature, others that law is what makes human life possible. Plato's dialogues return to the question again and again.",
   "person": "The Sophists",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives (on Archelaus)",
+   "citation": "2.16",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "τὸ δίκαιον εἶναι καὶ τὸ αἰσχρὸν οὐ φύσει, ἀλλὰ νόμῳ",
+   "translation": "what is just and what is shameful exist not by nature but by convention."
+  },
   "respelling": "NOH-moss",
   "image": {
    "src": "img/p/protagoras.webp",
@@ -243,13 +258,16 @@
   "context": "Aporia is the puzzled state in which an argument leaves you stuck. Socrates' early dialogues often end there: the confident speaker discovers he cannot define courage or piety after all. Aristotle made working through aporiai the standard way to begin an inquiry.",
   "person": "Socrates",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Meno",
+   "citation": "79e–80a",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "σὺ οὐδὲν ἄλλο ἢ αὐτός τε ἀπορεῖς καὶ τοὺς ἄλλους ποιεῖς ἀπορεῖν",
+   "translation": "you do nothing but get into difficulties yourself and make others get into difficulties."
+  },
   "respelling": "ah-por-EE-ah",
   "image": {
    "src": "img/p/socrates.webp",
@@ -322,13 +340,16 @@
   "context": "Plato's Forms (eidē, also ideai) are the unchanging realities that particular things imitate: many beautiful things, one Beauty itself. Only the Forms can be truly known, while the changing world of the senses gives mere opinion. Aristotle kept the word but placed form inside things, as their structure.",
   "person": "Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Republic",
+   "citation": "10.596a",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "εἶδος γάρ πού τι ἓν ἕκαστον εἰώθαμεν τίθεσθαι περὶ ἕκαστα τὰ πολλά, οἷς ταὐτὸν ὄνομα ἐπιφέρομεν",
+   "translation": "We are accustomed to positing one single Form for each set of many things to which we apply the same name."
+  },
   "respelling": "AY-doss",
   "image": {
    "src": "img/p/plato.webp",
@@ -360,13 +381,16 @@
   "context": "In the Meno and Phaedo, Plato argues that learning is really remembering what the soul knew before birth. Socrates leads an untaught slave boy to a geometric truth only by asking questions. The theory is the ancestor of later doctrines of innate ideas.",
   "person": "Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Meno",
+   "citation": "81d",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "τὸ γὰρ ζητεῖν ἄρα καὶ τὸ μανθάνειν ἀνάμνησις ὅλον ἐστίν",
+   "translation": "For seeking and learning are, after all, wholly recollection."
+  },
   "respelling": "ah-NAM-nay-sis",
   "image": {
    "src": "img/p/plato.webp",
@@ -439,13 +463,16 @@
   "context": "In Plato's Symposium, Diotima teaches Socrates that erōs is longing for what we lack, above all for the beautiful. Rightly guided, it climbs a ladder from one beautiful body to beautiful souls, laws and knowledge, and finally to Beauty itself. Here 'Platonic love' has its origin.",
   "person": "Plato",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Symposium",
+   "citation": "206a",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ἔστιν ἄρα συλλήβδην, ἔφη, ὁ ἔρως τοῦ τὸ ἀγαθὸν αὑτῷ εἶναι ἀεί",
+   "translation": "In sum, she said, love is of having the good for oneself always."
+  },
   "respelling": "EH-rose",
   "image": {
    "src": "img/p/plato.webp",
@@ -559,13 +586,16 @@
   "context": "Epistēmē is knowledge in the strict sense: understanding why something must be so, demonstrated from first principles. Plato contrasted it with doxa, mere opinion. Aristotle made it one of the intellectual virtues, alongside technē and phronēsis. It gives us 'epistemology'.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Nicomachean Ethics",
+   "citation": "6.3, 1139b31",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ἡ μὲν ἄρα ἐπιστήμη ἐστὶν ἕξις ἀποδεικτική",
+   "translation": "Scientific knowledge, then, is a demonstrative state."
+  },
   "respelling": "eh-pis-TAY-may",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -597,13 +627,16 @@
   "context": "Technē is skilled know-how that produces something: medicine, shipbuilding, rhetoric. Socrates used it as a model of expert knowledge that can give an account of itself. Aristotle separated it from epistēmē (knowing what cannot be otherwise) and phronēsis (acting well).",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Nicomachean Ethics",
+   "citation": "6.4, 1140a10",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ταὐτὸν ἂν εἴη τέχνη καὶ ἕξις μετὰ λόγου ἀληθοῦς ποιητική",
+   "translation": "craft would be the same as a productive state involving true reasoning."
+  },
   "respelling": "TEKH-nay",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -635,13 +668,16 @@
   "context": "Phronēsis is the ability to see what to do in particular situations, here and now. For Aristotle no one can be fully virtuous without it, and it cannot be learned from rules alone: it needs experience. It came back into favour in 20th-century virtue ethics.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Nicomachean Ethics",
+   "citation": "6.5, 1140b4",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "λείπεται ἄρα αὐτὴν εἶναι ἕξιν ἀληθῆ μετὰ λόγου πρακτικὴν περὶ τὰ ἀνθρώπῳ ἀγαθὰ καὶ κακά",
+   "translation": "It remains, then, that it is a true state involving reason, concerned with action about what is good and bad for a human being."
+  },
   "respelling": "FROH-nay-sis",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -673,13 +709,16 @@
   "context": "Aristotle coined energeia for actuality, as opposed to dynamis, potentiality. A sleeping geometer has knowledge potentially; when she proves a theorem she has it actually. The pair let him explain change without Parmenides' paradoxes. Our word 'energy' descends from it.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Metaphysics",
+   "citation": "Θ.6, 1048a31",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ἔστι δὴ ἐνέργεια τὸ ὑπάρχειν τὸ πρᾶγμα μὴ οὕτως ὥσπερ λέγομεν δυνάμει",
+   "translation": "Actuality, then, is the thing's existing, not in the way we call potential."
+  },
   "respelling": "en-ER-gay-ah",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -711,13 +750,16 @@
   "context": "Ousia, from the verb 'to be', is Aristotle's word for what is most fundamentally real. In the Categories it is the individual thing, this horse or this man; in the Metaphysics the inquiry shifts to form. Latin rendered it substantia and essentia, and Christian theology used it for the one nature of the Trinity.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Metaphysics",
+   "citation": "Z.1, 1028b2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "καὶ δὴ καὶ τὸ πάλαι τε καὶ νῦν καὶ ἀεὶ ζητούμενον καὶ ἀεὶ ἀπορούμενον, τί τὸ ὄν, τοῦτό ἐστι τίς ἡ οὐσία",
+   "translation": "And indeed the question asked long ago, now, and always, and always puzzled over, 'what is being?', is the question 'what is substance?'"
+  },
   "respelling": "oo-SEE-ah",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -790,13 +832,16 @@
   "context": "The Stoic sage is free of the pathē, the irrational passions such as fear, grief and lust, which the Stoics thought were mistaken judgements. Apatheia is not indifference: the wise still have 'good feelings' like joy. The English 'apathy' has lost this sense.",
   "person": "The Stoics",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives",
+   "citation": "7.117",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "Φασὶ δὲ καὶ ἀπαθῆ εἶναι τὸν σοφόν, διὰ τὸ ἀνέμπτωτον εἶναι",
+   "translation": "They say the wise man is also free from passion, because he is not prone to fall into it."
+  },
   "respelling": "ah-PAH-thay-ah",
   "image": {
    "src": "img/p/epictetus.webp",
@@ -828,13 +873,16 @@
   "context": "The Pyrrhonian Sceptics answered every claim with an equally strong counter-claim and so 'held back' from assent. Husserl revived the word in the 20th century for bracketing the question of whether the world exists, in order to describe experience exactly.",
   "person": "Pyrrho",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives",
+   "citation": "9.108",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "περὶ τῶν δογματικῶν ζητήσεων ἐπέχειν, οὐ περὶ τῶν βιωτικῶν",
+   "translation": "to suspend judgement about dogmatic inquiries, not about the business of living."
+  },
   "respelling": "eh-po-KHAY",
   "image": {
    "src": "img/p/pyrrho.webp",
@@ -866,13 +914,16 @@
   "context": "Stoic ethics starts from oikeiōsis: every animal from birth treats itself as its own and cares for its survival. In humans this concern widens, like circles round the self, to family, city and finally all humanity. It grounds Stoic cosmopolitanism.",
   "person": "The Stoics",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Diogenes Laërtius, Lives",
+   "citation": "7.85",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "οἰκειούσης αὑτῷ τῆς φύσεως ἀπ' ἀρχῆς",
+   "translation": "since nature from the beginning makes it at home with itself."
+  },
   "respelling": "oy-KAY-oh-sis",
   "image": {
    "src": "img/p/epictetus.webp",
@@ -904,13 +955,16 @@
   "context": "Aristotle defines the human being as an animal made by nature for life in a polis. Anyone who can live without a city is either a beast or a god. Speech (logos), which lets us share ideas of the just and unjust, is what makes us political.",
   "person": "Aristotle",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Politics",
+   "citation": "1.2, 1253a2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "quote": {
+   "text": "ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον",
+   "translation": "man is by nature a political animal."
+  },
   "respelling": "ZOH-on poh-lee-tee-KON",
   "image": {
    "src": "img/p/aristotle.webp",
@@ -942,13 +996,16 @@
   "context": "The idea that the mind begins with no content of its own goes back to Aristotle, who compared the intellect to a writing tablet with nothing written on it. Medieval Latin called it tabula rasa. Locke made it the emblem of empiricism: all ideas come from experience.",
   "person": "Aristotle · Locke",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "An Essay Concerning Human Understanding",
+   "citation": "II.i.2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 10615",
+  "quote": {
+   "text": "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas",
+   "translation": "(Original English: Locke's 'white paper' is his version of the tabula rasa.)"
+  },
   "respelling": "TAH-boo-lah RAH-sah",
   "image": {
    "src": "img/p/locke.webp",
@@ -1214,13 +1271,16 @@
   "context": "Descartes divides reality into two substances: res cogitans, mind, whose essence is thought, and res extensa, matter, whose essence is extension in space. How the two interact in a human being became the mind–body problem.",
   "person": "Descartes",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Meditationes de prima philosophia",
+   "citation": "II, 8",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Latin Library (1642 ed.)",
+  "quote": {
+   "text": "Sed quid igitur sum? Res cogitans. Quid est hoc? Nempe dubitans, intelligens, affirmans, negans, volens, nolens, imaginans quoque, & sentiens.",
+   "translation": "But what then am I? A thinking thing. What is that? A thing that doubts, understands, affirms, denies, wills, refuses, and also imagines and senses."
+  },
   "respelling": "RAYS KOH-gih-tahns",
   "image": {
    "src": "img/p/descartes.webp",
@@ -1416,13 +1476,16 @@
   "context": "For Kant an Erscheinung is an object as it is given to us in experience: in space and time and ordered by the categories. Appearances are not illusions; they are the only objects of possible knowledge. They contrast with things in themselves.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der reinen Vernunft",
+   "citation": "A 190 / B 235",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6343 (modernised spelling)",
+  "quote": {
+   "text": "das Haus gar kein Ding an sich selbst, sondern nur eine Erscheinung, d.i. Vorstellung, deren transzendentaler Gegenstand unbekannt ist",
+   "translation": "the house is no thing in itself at all, but only an appearance, i.e. a representation whose transcendental object is unknown."
+  },
   "respelling": "er-SHY-noong",
   "image": {
    "src": "img/p/kant.webp",
@@ -1536,13 +1599,16 @@
   "context": "A moral command that binds unconditionally, whatever you want, unlike 'if you want X, do Y'. Kant's first formula: act only on a maxim you could will to become a universal law. Another: treat humanity never merely as a means but always also as an end.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Grundlegung zur Metaphysik der Sitten",
+   "citation": "AA IV 421",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "Der kategorische Imperativ ist also nur ein einziger und zwar dieser: handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, daß sie ein allgemeines Gesetz werde.",
+   "translation": "The categorical imperative is thus only a single one, namely this: act only according to that maxim through which you can at the same time will that it become a universal law."
+  },
   "respelling": "kah-teh-GOR-ish-er im-peh-rah-TEEF",
   "image": {
    "src": "img/p/kant.webp",
@@ -1615,13 +1681,16 @@
   "context": "In the Critique of Judgement Kant separates the beautiful, which pleases by harmony, from the sublime: the overwhelming feeling before a raging storm at sea or towering mountains. We feel small, but then discover in ourselves a reason greater than any nature.",
   "person": "Kant",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der Urtheilskraft",
+   "citation": "§ 25, AA V 248",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "Erhaben nennen wir das, was schlechthin groß ist.",
+   "translation": "We call sublime that which is absolutely great."
+  },
   "respelling": "dahs er-HAH-beh-neh",
   "image": {
    "src": "img/p/kant.webp",
@@ -1858,13 +1927,16 @@
   "context": "In The Birth of Tragedy Nietzsche explains Greek tragedy as a union of two drives. The Apollonian is the drive to form, measure and beautiful illusion, like a dream; the Dionysian is ecstatic, boundary-dissolving intoxication. Tragedy lets us glimpse the terrible truth of existence and still affirm it.",
   "person": "Nietzsche",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die Geburt der Tragödie",
+   "citation": "§ 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 7206",
+  "quote": {
+   "text": "dass die Fortentwickelung der Kunst an die Duplicität des Apollinischen und des Dionysischen gebunden ist",
+   "translation": "that the continuing development of art is bound up with the duality of the Apollonian and the Dionysian."
+  },
   "respelling": "ah-poh-LEE-nish / dee-oh-NOO-zish",
   "image": {
    "src": "img/p/nietzsche.webp",

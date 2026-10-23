@@ -1,2 +1,2 @@
-{"name":"Lexis","short_name":"Lexis","start_url":"./cards/","scope":"./","display":"standalone","background_color":"#F4F0E6","theme_color":"#F4F0E6",
-"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
+{"name":"Lexis","short_name":"Lexis","start_url":"./cards/","scope":"./","display":"standalone","background_color":"#F4EEDF","theme_color":"#F4EEDF",
+"icons":[{"src":"icon-192-v2.png?v=2","sizes":"192x192","type":"image/png"},{"src":"icon-512-v2.png?v=2","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"apple-touch-icon-v2.png?v=2","sizes":"180x180","type":"image/png"}]}

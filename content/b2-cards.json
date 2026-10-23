@@ -12,13 +12,16 @@
   "context": "Hegel's Geist is mind understood not as a private consciousness but as a shared, historical reality: the customs, institutions, art, religion and philosophy through which a people understands itself. The Phenomenology of Spirit traces its development to self-knowing 'absolute spirit'.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Phenomenology of Spirit",
+   "citation": "Preface",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "welche das Absolute als Geist ausspricht, – der erhabenste Begriff, und der der neuern Zeit und ihrer Religion angehört",
+   "translation": "which expresses the Absolute as Spirit: the most sublime concept, and the one that belongs to modern times and their religion."
+  },
   "respelling": "GUYST",
   "image": {
    "src": "img/p/hegel.webp",
@@ -50,13 +53,16 @@
   "context": "Hegel prized this word because it means three things at once: to cancel, to preserve, and to raise up. In dialectic a lower stage is aufgehoben in a higher one: negated as a standalone truth, kept as a moment, and lifted into a richer whole.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Wissenschaft der Logik I",
+   "citation": "Book 1, ch. 1, remark on 'Aufheben'",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Project Gutenberg ebook 6729",
+  "quote": {
+   "text": "Aufheben hat in der Sprache den gedoppelten Sinn, daß es so viel als aufbewahren, erhalten bedeutet, und zugleich so viel als aufhören lassen, ein Ende machen.",
+   "translation": "'To sublate' has a double meaning in the language: it means to preserve, to maintain, and at the same time to cause to cease, to put an end to."
+  },
   "respelling": "OWF-hay-boong",
   "image": {
    "src": "img/p/hegel.webp",
@@ -126,13 +132,16 @@
   "context": "For Hegel, history is the progress of the consciousness of freedom, carried by a world spirit working through nations and individuals. Watching Napoleon ride through Jena in 1806, he wrote of seeing 'the world soul on horseback'.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Lectures on the Philosophy of History",
+   "citation": "Introduction",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "Die Weltgeschichte ist der Fortschritt im Bewußtsein der Freiheit",
+   "translation": "World history is the progress of the consciousness of freedom."
+  },
   "respelling": "VELT-guyst",
   "image": {
    "src": "img/p/hegel.webp",
@@ -164,13 +173,16 @@
   "context": "In the Phenomenology two self-consciousnesses struggle for recognition; one risks death and becomes lord, the other clings to life and becomes bondsman. But the bondsman, shaping the world through work, gains a self-consciousness the idle lord lacks. The passage deeply influenced Marx, Kojève and Sartre.",
   "person": "Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Phenomenology of Spirit",
+   "citation": "IV.A, Lordship and Bondage",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "daß sie sich selbst und einander durch den Kampf auf Leben und Tod bewähren",
+   "translation": "that they prove themselves and each other through a life-and-death struggle."
+  },
   "respelling": "HAIR oont KNEKHT",
   "image": {
    "src": "img/p/hegel.webp",
@@ -354,13 +366,16 @@
   "context": "Schopenhauer splits Kant's world in two: as representation it is the world of objects for a subject; in itself it is blind, ceaseless will, of which our own bodily striving is the only inside view. Because the will can never be satisfied, life swings between pain and boredom.",
   "person": "Schopenhauer",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die Welt als Wille und Vorstellung I",
+   "citation": "§ 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "Die Welt ist meine Vorstellung",
+   "translation": "The world is my representation."
+  },
   "respelling": "VIL-leh oont FOR-shtel-loong",
   "image": {
    "src": "img/p/schopenhauer.webp",
@@ -430,13 +445,16 @@
   "context": "A scholastic term Schopenhauer borrowed for space and time, which split the one will into many separate things. Nietzsche used it in The Birth of Tragedy for the Apollonian world of individuals that Dionysian ecstasy shatters.",
   "person": "Schopenhauer",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die Welt als Wille und Vorstellung I",
+   "citation": "§ 23",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Projekt Gutenberg-DE",
+  "quote": {
+   "text": "Zeit und Raum allein sind es, mittelst welcher das dem Wesen und dem Begriff nach Gleiche und Eine doch als verschieden, als Vielheit neben und nach einander erscheint",
+   "translation": "Time and space alone are what make the one thing, the same in essence and concept, appear as different, as a plurality side by side and in succession."
+  },
   "respelling": "prin-KIP-ee-oom in-dee-wee-doo-ah-tee-OH-nis",
   "image": {
    "src": "img/p/schopenhauer.webp",
@@ -661,13 +679,16 @@
   "context": "Kierkegaard's first major book sets the aesthetic life, devoted to pleasure and interest, against the ethical life of commitment and choice. There is no higher standpoint that reconciles them, against Hegel's mediation: one must choose.",
   "person": "Kierkegaard",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Enten – Eller I",
+   "citation": "Diapsalmata",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Danish Wikisource",
+  "quote": {
+   "text": "Gift Dig, Du vil fortryde det; gift Dig ikke, Du vil ogsaa fortryde det",
+   "translation": "Marry, and you will regret it; do not marry, and you will also regret it."
+  },
   "respelling": "EN-ten EL-ler",
   "image": {
    "src": "img/p/kierkegaard.webp",
@@ -1616,7 +1637,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
   "quote": {
    "text": "道可道，非常道，名可名，非常名；",
    "translation": "The Dao that can be told is not the constant Dao; the name that can be named is not the constant name."
@@ -1657,7 +1678,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
   "quote": {
    "text": "是以聖人處無為之事，行不言之教",
    "translation": "Therefore the sage dwells in the affairs of non-action and practises the teaching without words."
@@ -1698,7 +1719,7 @@
    "date": ""
   },
   "attribution_confidence": "verified",
-  "attribution_note": "Quote checked verbatim against Perseus Digital Library (PerseusDL canonical-greekLit)",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
   "quote": {
    "text": "孝弟也者，其爲仁之本與？",
    "translation": "Filial piety and brotherly respect: are they not the root of humaneness?"
@@ -1734,13 +1755,16 @@
   "context": "Li covers ceremony, etiquette and the whole web of proper social forms. For Confucius ritual is not empty formality: practised with sincerity, it shapes character and makes harmony between people possible.",
   "person": "Confucius",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Analects (Master You)",
+   "citation": "1.12",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against Chinese Wikisource",
+  "quote": {
+   "text": "禮之用，和爲貴；先王之道，斯爲美",
+   "translation": "In the practice of ritual propriety, harmony is most valued; in the Way of the former kings, this was the beauty."
+  },
   "respelling": "LEE",
   "image": {
    "src": "img/p/confucius.webp",
