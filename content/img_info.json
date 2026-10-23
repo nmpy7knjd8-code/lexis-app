@@ -178,5 +178,230 @@
   "licurl": "",
   "artist": "Unknown authorUnknown author",
   "desc": "Pyrrho, ancient Greek philosopher. From Thomas Stanley, (1655), The history of philosophy: containing the lives, opinions, actions and Discourses of t"
+ },
+ "Hegel": {
+  "file": "File:Jakob_Schlesinger_-_Hegel_1831.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jakob_Schlesinger_-_Hegel_1831.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Jakob Schlesinger",
+  "desc": "Hegel-Porträt"
+ },
+ "Marx": {
+  "file": "File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png/960px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "John Jabez Edwin Mayall",
+  "desc": "Portrait photograph of Karl Marx."
+ },
+ "Dilthey": {
+  "file": "File:Portrait_Dilthey.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Portrait_Dilthey.jpg/960px-Portrait_Dilthey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_Dilthey.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "R. Dührkoop",
+  "desc": "Photrography of Wilhelm Dilthey"
+ },
+ "Fichte": {
+  "file": "File:Johann_Gottlieb_Fichte.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Johann_Gottlieb_Fichte.jpg/960px-Johann_Gottlieb_Fichte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Johann_Gottlieb_Fichte.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "",
+  "desc": ""
+ },
+ "Schopenhauer": {
+  "file": "File:Arthur_Schopenhauer_by_J_Schäfer,_1859b.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/960px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859b.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Johann Schäfer",
+  "desc": "Portrait photograph of Arthur Schopenhauer"
+ },
+ "Husserl": {
+  "file": "File:Edmund_Husserl_1910s.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edmund_Husserl_1910s.jpg/960px-Edmund_Husserl_1910s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Edmund_Husserl_1910s.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Unknown (Mondadori Publishers)",
+  "desc": "Edmund Husserl"
+ },
+ "Kierkegaard": {
+  "file": "File:Søren_Kierkegaard_(1813-1855)_-_(cropped).jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:S%C3%B8ren_Kierkegaard_(1813-1855)_-_(cropped).jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "La Biblioteca Real de Dinamarca",
+  "desc": "Boceto inacabado de Søren Kierkegaard c. 1840 por su primo Niels Christian Kierkegaard"
+ },
+ "Sartre": {
+  "file": "File:Jean_Paul_Sartre_1965.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/960px-Jean_Paul_Sartre_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg",
+  "lic": "CC BY-SA 3.0 nl",
+  "licurl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+  "artist": "Unknown authorUnknown author",
+  "desc": "Jean Paul Sartre"
+ },
+ "Camus": {
+  "file": "File:Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_posé_au_bureau,_faisant_face_à_gauche,_cigarette_de_tabagisme.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_pos%C3%A9_au_bureau,_faisant_face_%C3%A0_gauche,_cigarette_de_tabagisme.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Photograph by United Press International",
+  "desc": "Albert Camus, Nobel prize winner, half-length portrait, seated at desk, facing left, smoking cigarette"
+ },
+ "Beauvoir": {
+  "file": "File:Simone_De_Beauvoir_(cropped).jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/Simone_De_Beauvoir_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Simone_De_Beauvoir_(cropped).jpg",
+  "lic": "CC BY-SA 3.0",
+  "licurl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Moshe Milner",
+  "desc": "French philosopher-writer Jean Paul Sartre and writer Simone De Beauvoir arriving in Israel and welcomed by Avraham Shlonsky and Leah Goldberg at Lod "
+ },
+ "Derrida": {
+  "file": "File:Derrida_EHESS_(cropped).png",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Derrida_EHESS_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Derrida_EHESS_(cropped).png",
+  "lic": "CC BY 4.0",
+  "licurl": "https://creativecommons.org/licenses/by/4.0",
+  "artist": "Auto-épreuve",
+  "desc": "Jacques Derrida"
+ },
+ "Bergson": {
+  "file": "File:Henri_Bergson_02.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Henri_Bergson_02.jpg/960px-Henri_Bergson_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Henri_Bergson_02.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Henri Manuel",
+  "desc": "French philosopher Henri Bergson (1859-1941)"
+ },
+ "Foucault": {
+  "file": "File:Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Jerry Bauer",
+  "desc": "Portrait photo of Michel Foucault"
+ },
+ "Levinas": {
+  "file": "File:Emmanuel_Levinas.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Emmanuel_Levinas.jpg/960px-Emmanuel_Levinas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Levinas.jpg",
+  "lic": "CC BY-SA 2.5",
+  "licurl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "artist": "Bracha L. Ettinger",
+  "desc": "Emmanuel Levinas"
+ },
+ "Lévi-Strauss": {
+  "file": "File:Levi-strauss_260_(cropped2).jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Levi-strauss_260_%28cropped2%29.jpg/960px-Levi-strauss_260_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Levi-strauss_260_(cropped2).jpg",
+  "lic": "CC BY 3.0",
+  "licurl": "https://creativecommons.org/licenses/by/3.0",
+  "artist": "UNESCO/Michel Ravassard",
+  "desc": "Portrait of Claude Lévi-Strauss taken in 2005"
+ },
+ "Pascal": {
+  "file": "File:Blaise_Pascal_Versailles,_circa_1690.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/960px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles,_circa_1690.JPG",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "unknown; a copy of the painting of François II Quesnel, which was made for Gérar",
+  "desc": ""
+ },
+ "Frege": {
+  "file": "File:Young_frege.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Young_frege.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_frege.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Unknown authorUnknown author",
+  "desc": "Photograph of Gottlob Frege, circa 1879. The photographer is unknown, but it is out of copyright as it is about 130 years old."
+ },
+ "Mach": {
+  "file": "File:Ernst_Mach_01.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ernst_Mach_01.jpg/960px-Ernst_Mach_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ernst_Mach_01.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Heliogravüre by H. F. Jütte, Leipzig; Scanned, image processed and uploaded by K",
+  "desc": "Ernst Mach"
+ },
+ "Laozi": {
+  "file": "File:Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zhang_Lu-Laozi_Riding_an_Ox_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox_(cropped).jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Zhang Lu",
+  "desc": "The subject deals with the story of Laotzu riding an ox through a pass. It is said that with the fall of the Chou dynasty, Laotzu decided to travel we"
+ },
+ "Confucius": {
+  "file": "File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Anonymous Chinese painter of the Western Han period",
+  "desc": "(071016) -- JINAN, Oct. 16, 2007 (Xinhua) -- Photo taken on Oct. 13, 2007 shows a fresco depicting ancient Chinese philosopher and educator Confucius "
+ },
+ "Buddha": {
+  "file": "File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/960px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+  "lic": "CC BY-SA 3.0",
+  "licurl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เพื่อการศึก",
+  "desc": "Seated Buddha; circa 475; sandstone; height: 1.6 m (5 ft. 3 in.); Sarnath Museum (India). This figure, his hands in the dharmachakra mudra gesture of "
+ },
+ "Nagarjuna": {
+  "file": "File:Nagarjuna_with_84_mahasiddha_cropped.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Nagarjuna_with_84_mahasiddha_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagarjuna_with_84_mahasiddha_cropped.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Unknown | Recovered from Himalayan Art Resources",
+  "desc": "Nagarjuna with Thirty of the Eighty-four Mahasiddhas (cropped)"
+ },
+ "Shankara": {
+  "file": "File:Raja_Ravi_Varma_-_Sankaracharya.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Raja_Ravi_Varma_-_Sankaracharya.jpg/960px-Raja_Ravi_Varma_-_Sankaracharya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Sankaracharya.jpg",
+  "lic": "Public domain",
+  "licurl": "",
+  "artist": "Raja Ravi Varma",
+  "desc": "Adi Shankara with disciples."
+ },
+ "Avicenna": {
+  "file": "File:Avicenna_Bust,_left_profile_(cropped).jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/960px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg",
+  "lic": "Public domain",
+  "licurl": "https://www.flickr.com/commons/usage/",
+  "artist": "National Library of Medicine",
+  "desc": "Format:\nStill image\nGenre(s):\nPortraits\nAbstract:\nBust, left profile.\nExtent:\n1 photomechanical reproduction\nTechnique:\nhalftone, color\nNLM Unique ID:"
+ },
+ "Averroes": {
+  "file": "File:Andrea_di_bonaiuto,_apoteosi_di_san_tommaso_d'aquino,_11_averroè.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg/960px-Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Andrea_di_bonaiuto,_apoteosi_di_san_tommaso_d%27aquino,_11_averro%C3%A8.jpg",
+  "lic": "CC BY 3.0",
+  "licurl": "https://creativecommons.org/licenses/by/3.0",
+  "artist": "Sailko",
+  "desc": "Cappellone degli Spagnoli - Triumph of St. Thomas Aquinas"
  }
 }

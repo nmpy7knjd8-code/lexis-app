@@ -181,7 +181,7 @@ header h1{font:700 2.4rem/1 var(--lx-font-display)!important;letter-spacing:.26e
 .latin_s,.latin-t{--bg:linear-gradient(165deg,#5a3a34,#3e2723);--bg2:#2a1a17;--acc:#EBD9BE}
 .card.latin{--bg:linear-gradient(165deg,#5a3a34,#3e2723);--bg2:#2a1a17;--acc:#EBD9BE}
 .early_modern{--bg:linear-gradient(165deg,#3d4a3f,#29332b);--bg2:#1d241f;--acc:#E4DCC0}
-.german{--bg:linear-gradient(165deg,#3b3a4a,#272634);--bg2:#1c1b26;--acc:#E6D9BA}
+.german,.danish{--bg:linear-gradient(165deg,#3b3a4a,#272634);--bg2:#1c1b26;--acc:#E6D9BA}
 .french{--bg:linear-gradient(165deg,#4a3b4a,#332733);--bg2:#251c25;--acc:#EBD8C4}
 .analytic{--bg:linear-gradient(165deg,#3e4448,#2a2f32);--bg2:#1e2224;--acc:#DCD8CC}
 .eastern{--bg:linear-gradient(165deg,#5a4630,#3e301f);--bg2:#2a2015;--acc:#EDDCB8}
@@ -203,7 +203,7 @@ header h1{font:700 2.4rem/1 var(--lx-font-display)!important;letter-spacing:.26e
 <script src="cards.js"></script>
 
 <script>
-const ERA={greek:"Ancient Greek",latin:"Latin",early_modern:"Early Modern",german:"German",french:"French",analytic:"Analytic",eastern:"Eastern"};
+const ERA={greek:"Ancient Greek",latin:"Latin",early_modern:"Early Modern",german:"German",french:"French",analytic:"Analytic",eastern:"Eastern",danish:"Danish"};
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 let mode="review";
 const fp=im=>im.focal_point?`object-position:${im.focal_point[0]*100}% ${im.focal_point[1]*100}%`:"";
@@ -249,12 +249,12 @@ function render(){
     ${P(c)?`<div class="say" aria-label="Pronunciation: ${esc(P(c).respelling)}"><span>${esc(P(c).respelling)}</span></div>`:""}
     ${learn?`<div class="tr-front">“${esc(c.translation)}”</div><div class="gl" aria-live="polite"></div>`:""}
     ${AU(c).length?`<div class="chips">${AU(c).map((a,k)=>`<button class="play" data-a="${esc(a.file)}" aria-label="Play recording, ${esc(a.style)}">▶ ${esc(a.style)}</button>`).join("")}</div>`:""}
-    <div class="meta">${c.person?`<span>${esc(c.person)}</span><span class="sep" aria-hidden="true">·</span>`:""}<span class="era">${ERA[c.era]||c.era}</span></div>
+    <div class="meta">${c.person?`<span>${esc(c.person)}</span><span class="sep" aria-hidden="true">·</span>`:""}<span class="era">${esc(c.language||ERA[c.era]||c.era)}</span></div>
     <div class="lic">${esc(c.image.license)} · ${learn?`<a href="${esc(c.image.museum_url||c.image.source_url)}" target="_blank" rel="noopener" style="color:inherit">see in museum</a>`:"credit on back"}</div>
    </div>
   </div>
   <div class="face back" aria-hidden="true" inert>
-   <div class="meta" style="justify-content:flex-start"><span class="era">${ERA[c.era]||c.era}</span></div>
+   <div class="meta" style="justify-content:flex-start"><span class="era">${esc(c.language||ERA[c.era]||c.era)}</span></div>
    ${P(c)?`<div class="ipa-b" aria-label="IPA">${esc(P(c).ipa)}</div>`:""}
    <div class="la-b${c.latin.length>40?" long":""}" lang="${esc(c.lang)}">${brk(esc(c.latin))}</div>
    <div class="tr${c.translation.length>120?" long":""}">“${esc(c.translation)}”</div>
@@ -298,7 +298,7 @@ function fitWide(){document.querySelectorAll(".face").forEach(fc=>{const W=fc.cl
     while(el.scrollWidth>el.clientWidth+1&&n++<12){fs*=.94;el.style.fontSize=fs+"px"}})})}
 function fitMeta(){document.querySelectorAll(".meta").forEach(m=>{const sp=m.querySelector(".sep");if(!sp)return;sp.classList.remove("wrapped");const a=m.firstElementChild,e=m.querySelector(".era");if(a&&e&&Math.abs(a.offsetTop-e.offsetTop)>4)sp.classList.add("wrapped")})}
 function expand(card){collapse();const bk=card.querySelector(".back"),r=card.getBoundingClientRect();
-  const ov=document.createElement("div");ov.id="xov";ov.className="xov "+card.className.split(" ").filter(c=>/^(greek|latin|early_modern|german|french|analytic|eastern)$/.test(c)).join(" ");
+  const ov=document.createElement("div");ov.id="xov";ov.className="xov "+card.className.split(" ").filter(c=>/^(greek|latin|early_modern|german|french|analytic|eastern|danish)$/.test(c)).join(" ");
   ov.innerHTML=`<div class="face back xback" style="margin:${r.top}px auto 24px;width:${r.width}px;min-height:${r.height}px">${bk.innerHTML}</div>`;
   const xb=ov.querySelector(".xback");xb.querySelectorAll(".ctx").forEach(c=>{c.classList.remove("clamp");c.style.fontSize="";c.style.maxHeight=""});xb.querySelectorAll(".ipa-b").forEach(e=>e.style.display="");
   const m=xb.querySelector(".more");m.hidden=false;m.innerHTML="Show less <span aria-hidden=true>⌃</span>";

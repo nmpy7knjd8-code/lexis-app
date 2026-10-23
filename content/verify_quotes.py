@@ -2,9 +2,11 @@
 import re,sys,unicodedata as U,html,importlib
 SRC="/tmp/norm/"
 def clean(t):
-    t=re.sub(r"\{\{SperrSchrift\|([^}]*)\}\}",r"\1",t); t=t.replace("'''","").replace("''","")
+    t=re.sub(r"\{\{\*\|[^}]*\}\}","",t); t=re.sub(r"(?m)^:","",t); t=re.sub(r"\{\{SperrSchrift\|([^}]*)\}\}",r"\1",t); t=t.replace("'''","").replace("''","")
     t=t.replace("_","");t=re.sub(r"\[\d+\]","",t); t=U.normalize("NFC",t).replace("\u2019","'").replace("\u1fbd","'")
-    return re.sub(r"\s+"," ",t)
+    t=re.sub(r"\s+"," ",t)
+    t=re.sub(r"(?<=[\u3000-\u9fff\uff00-\uffef])\s+|\s+(?=[\u3000-\u9fff\uff00-\uffef])","",t)
+    return re.sub(r"(?<=[\u3000-\u303f\uff00-\uffef]):","",t)  # wiki indent markup after CJK punctuation
 def check(cards):
     bad=[]
     for c in cards:

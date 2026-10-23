@@ -2,7 +2,7 @@ import json,urllib.request,io,os
 from PIL import Image
 I=json.load(open("img_info.json")); os.makedirs("img/p",exist_ok=True)
 for who,i in I.items():
-    out=f"img/p/{who.lower().replace(' ','-')}.webp"
+    out=f"img/p/{who.lower().replace(' ','-').replace('é','e')}.webp"
     if os.path.exists(out): continue
     im=Image.open(io.BytesIO(urllib.request.urlopen(urllib.request.Request(i["thumb"],headers={"User-Agent":"LexisCards/0.1"}),timeout=60).read())).convert("RGB")
     w,h=im.size; tw=min(w,int(h*3/4)); th=int(tw*4/3)
