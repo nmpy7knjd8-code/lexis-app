@@ -12,13 +12,16 @@
   "context": "Dikē is the order by which things get their due. In Anaximander's single surviving fragment, things 'pay penalty and retribution to one another for their injustice according to the ordering of time': cosmic change as a lawsuit. Heraclitus says even the sun will not overstep its measures, or the Furies, servants of Dikē, will find it out.",
   "person": "Anaximander",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Anaximander, fragment B1 (via Simplicius)",
+   "citation": "in Phys. 24.13–21",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against English Wikipedia's quotation of Simplicius' Greek text (DK 12 B1)",
+  "quote": {
+   "text": "διδόναι γὰρ αὐτὰ δίκην καὶ τίσιν ἀλλήλοις τῆς ἀδικίας κατὰ τὴν τοῦ χρόνου τάξιν",
+   "translation": "for they pay penalty and retribution to one another for their injustice according to the ordering of time."
+  },
   "respelling": "DEE-kay",
   "image": {
    "src": "img/p/anaximander.webp",
@@ -419,13 +422,16 @@
   "context": "God's absolute power covers everything that involves no contradiction; his ordained power is what he has actually chosen to do. Ockham used the distinction to stress that the created order is contingent: God could have saved without grace, or made a different world.",
   "person": "William of Ockham",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Quodlibeta",
+   "citation": "VI, q. 6",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against the Latin as quoted in Boehner, Collected Articles on Ockham (archive.org OCR, https://archive.org/details/collected-articles-on-ockham-philotheus-boehner-1958)",
+  "quote": {
+   "text": "Credo in Deum Patrem omnipotentem, quem sic intelligo: quod quodlibet est divinae potentiae attribuendum, quod non includit manifestam contradictionem",
+   "translation": "I believe in God the Father almighty, which I understand thus: anything is to be attributed to the divine power that does not involve a manifest contradiction."
+  },
   "respelling": "poh-TEN-tee-ah ab-soh-LOO-tah / or-dih-NAH-tah",
   "image": {
    "src": "img/p/ockham.webp",
@@ -1154,13 +1160,16 @@
   "context": "Husserl asks us to 'bracket' the natural belief that the world exists independently and attend to how things are given in consciousness. He borrowed the sceptics' word epochē for this suspension. What is left is pure experience, open to description.",
   "person": "Husserl",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Ideen I",
+   "citation": "§ 32",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/jppf1.1 (Jahrbuch für Philosophie und phänomenologische Forschung I, 1913)",
+  "quote": {
+   "text": "Die zum Wesen der natürlichen Einstellung gehörige Generalthesis setzen wir außer Aktion, alles und jedes, was sie in ontischer Hinsicht umspannt, setzen wir in Klammern",
+   "translation": "We put out of action the general thesis belonging to the essence of the natural attitude; everything it encompasses in the ontic respect we place in brackets."
+  },
   "respelling": "feh-noh-meh-noh-LOH-gish-eh reh-dook-TSYOHN",
   "image": {
    "src": "img/p/husserl.webp",
@@ -1274,13 +1283,16 @@
   "context": "Sartre's ideal for writers and for everyone: since we are free and responsible for what we make of ourselves and our world, there is no neutral position. Writing, choosing, and even refusing to choose are acts that commit us.",
   "person": "Sartre",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "L'Être et le néant",
+   "citation": "Part IV, ch. 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against L'Être et le néant, Gallimard 1943 (archive.org OCR, https://archive.org/details/sartreletreetleneant)",
+  "quote": {
+   "text": "Je suis condamné à exister pour toujours par delà mon essence, par delà les mobiles et les motifs de mon acte : je suis condamné à être libre.",
+   "translation": "I am condemned to exist forever beyond my essence, beyond the causes and motives of my act: I am condemned to be free."
+  },
   "respelling": "ahn-gazh-MAHN",
   "image": {
    "src": "img/p/sartre.webp",
@@ -1312,13 +1324,16 @@
   "context": "The leading word of the later Heidegger. Ordinary German for 'event', but he hears in it eigen, 'own': the happening in which being and humans are appropriated to each other. He said it should be translated no more than logos or Dao.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Identität und Differenz",
+   "citation": "'Der Satz der Identität' (1957)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the German text of Identität und Differenz in the bilingual Anthropos 1990 edition (archive.org OCR, https://archive.org/details/heidegger-martin.-identidad-y-diferencia-bilingue-esp.-aleman-ocr-1990, fuzzy-matched)",
+  "quote": {
+   "text": "Er-eignen heißt ursprünglich: er-äugen, d. h. erblicken, im Blicken zu sich rufen, an-eignen. … Als so gedachtes Leitwort läßt es sich sowenig übersetzen wie das griechische Leitwort λόγος und das chinesische Tao.",
+   "translation": "Er-eignen originally means: to catch with the eye, i.e. to glimpse, to call to oneself in looking, to appropriate. … Thought as such a guide-word, it can no more be translated than the Greek guide-word logos or the Chinese Tao."
+  },
   "respelling": "eh-RIKE-nis",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1350,13 +1365,16 @@
   "context": "Heidegger's charge against Western metaphysics: since Plato it has asked about beings, what they are and what grounds them, while forgetting being itself, the fact that there is anything at all. Modern technology is its last stage.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 1, p. 2",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Die genannte Frage ist heute in Vergessenheit gekommen, obzwar unsere Zeit sich als Fortschritt anrechnet, die »Metaphysik« wieder zu bejahen.",
+   "translation": "This question has today been forgotten, although our time counts it as progress to affirm 'metaphysics' again."
+  },
   "respelling": "ZINES-fair-ges-en-hite",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1388,13 +1406,16 @@
   "context": "The difference between being (Sein) and beings (Seiendes). Being is not itself a being, not even the highest one, so it cannot be explained the way we explain things. Heidegger made keeping this difference open the task of thinking.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 2, p. 6",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Das Sein des Seienden »ist« nicht selbst ein Seiendes.",
+   "translation": "The being of entities 'is' not itself an entity."
+  },
   "respelling": "on-toh-LOH-gish-eh dif-feh-RENTS",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1426,13 +1447,16 @@
   "context": "Everyday Dasein is absorbed in the world and in the anonymous 'they', in idle talk, curiosity and ambiguity. Heidegger insists this falling is not a moral fall from a higher state but a basic way of being, through which we flee from ourselves.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 38, p. 175",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Das Dasein ist von ihm selbst als eigentlichem Selbstseinkönnen zunächst immer schon abgefallen und an die »Welt« verfallen.",
+   "translation": "Dasein has, proximally, always already fallen away from itself as an authentic potentiality for being itself, and has fallen into the 'world'."
+  },
   "respelling": "fair-FAH-len",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1464,13 +1488,16 @@
   "context": "Derrida's word for the mark that every sign carries of the other signs it is not. No element of language is simply present; each refers to others, so meaning is never fully given. The trace is the condition of différance.",
   "person": "Derrida",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De la grammatologie",
+   "citation": "Minuit 1967, p. 90",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against De la grammatologie, Minuit 1967 (archive.org OCR, https://archive.org/details/jacques-derrida-de-la-grammatologie)",
+  "quote": {
+   "text": "La trace n'est pas seulement la disparition de l'origine, elle veut dire ici … que l'origine n'a même pas disparu, qu'elle n'a jamais été constituée qu'en retour par une non-origine",
+   "translation": "The trace is not only the disappearance of origin; it means here … that the origin did not even disappear, that it was never constituted except reciprocally by a non-origin."
+  },
   "respelling": "trass",
   "image": {
    "src": "img/p/derrida.webp",
@@ -1502,13 +1529,16 @@
   "context": "Lacan's name for the object-cause of desire: not any object we want, but the lost something that makes us want at all. It cannot be had; each object we pursue stands in for it. The 'a' is for autre, other.",
   "person": "Lacan",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Écrits",
+   "citation": "'Ouverture de ce recueil', p. 10",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Écrits, Seuil 1966 (archive.org OCR, https://archive.org/details/ecrits-jacques-lacan-1966)",
+  "quote": {
+   "text": "ce qui se lève à la fin de ce recueil sous le nom d'objet a (à lire : petit a)",
+   "translation": "what rises at the end of this collection under the name of object a (to be read: little a)."
+  },
   "respelling": "ob-ZHAY puh-TEE ah",
   "image": {
    "src": "img/p/lacan.webp",
@@ -1540,13 +1570,16 @@
   "context": "Levinas used the ordinary phrase for the impersonal, anonymous fact of being without anyone in it, like the rustling of sleepless night. Unlike Heidegger's generous es gibt, it is oppressive; escape comes only through the face of the other.",
   "person": "Levinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Éthique et Infini",
+   "citation": "Livre de poche 1982, p. 38",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against French Wikiquote (https://fr.wikiquote.org/wiki/Emmanuel_Levinas), which cites the page",
+  "quote": {
+   "text": "Dans le vide absolu, qu'on peut imaginer, d'avant la création — il y a.",
+   "translation": "In the absolute void that one can imagine, before creation: there is."
+  },
   "respelling": "eel ee AH",
   "image": {
    "src": "img/p/levinas.webp",
@@ -1824,13 +1857,16 @@
   "context": "For Frege a Gedanke is not a mental event but the sense of a sentence, which is true or false and can be grasped by many minds. Thoughts belong to a 'third realm', neither physical nor psychological. The idea anticipates the modern notion of a proposition.",
   "person": "Frege",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Über Sinn und Bedeutung",
+   "citation": "1892, p. 32 n.",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/frege_sinn_und_bedeutung (Zeitschrift für Philosophie und philosophische Kritik 100, 1892)",
+  "quote": {
+   "text": "Ich verstehe unter Gedanken nicht das subjektive Tun des Denkens, sondern dessen objektiven Inhalt, der fähig ist, gemeinsames Eigentum von vielen zu sein.",
+   "translation": "By a thought I understand not the subjective act of thinking but its objective content, which is capable of being the common property of many."
+  },
   "respelling": "geh-DAN-keh",
   "image": {
    "src": "img/p/frege.webp",
@@ -1997,15 +2033,15 @@
   },
   "respelling": "KAR-muh",
   "image": {
-   "src": "img/p/buddha.webp",
-   "alt": "Portrait of Buddha",
+   "src": "img/p/krishna-and-arjuna.webp",
+   "alt": "Krishna and Arjuna on the chariot (Indian painting, 18th–19th c.)",
    "kind": "painting",
    "aspect": "3:4",
    "transparent": false,
-   "license": "CC BY-SA 3.0",
-   "credit": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เพื่อการศึก · CC BY-SA 3.0 · via Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "license": "Public domain",
+   "credit": "Unknown artist · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Krishna_and_Arjun_on_the_chariot,_Mahabharata,_18th-19th_century,_India.jpg",
+   "license_url": "",
    "modified": "cropped to 3:4, resized"
   },
   "learn_more": {

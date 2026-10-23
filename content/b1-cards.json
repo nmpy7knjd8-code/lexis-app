@@ -1078,13 +1078,16 @@
   "context": "Duns Scotus asked what makes an individual this one and not another. His answer was a haecceitas, a positive principle of individuality distinct from the shared nature. The term has been revived in modern metaphysics for primitive identity.",
   "person": "Duns Scotus",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Ordinatio II",
+   "citation": "d. 3, p. 1, q. 6, n. 188",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Logic Museum (Latin text of the Vatican edition)",
+  "quote": {
+   "text": "Non est igitur 'ista entitas' materia vel forma vel compositum, in quantum quodlibet istorum est 'natura', - sed est ultima realitas entis quod est materia vel quod est forma",
+   "translation": "So 'this entity' is not matter or form or the composite, insofar as each of these is a 'nature', but it is the ultimate reality of the being that is matter or that is form."
+  },
   "respelling": "haik-KAY-ee-tahs",
   "image": {
    "src": "img/p/duns-scotus.webp",
@@ -2018,13 +2021,16 @@
   "context": "Heidegger's word for the kind of being that we ourselves are: the being for whom its own being is an issue. He avoids 'consciousness' or 'subject' because Dasein is always already in a world, among things and others. In ordinary German it just means 'existence'.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 4, p. 12",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Das Dasein ist ein Seiendes, das nicht nur unter anderem Seienden vorkommt. Es ist vielmehr dadurch ontisch ausgezeichnet, daß es diesem Seienden in seinem Sein um dieses Sein selbst geht.",
+   "translation": "Dasein is an entity that does not just occur among other entities. Rather, it is ontically distinguished by the fact that, in its very being, that being is an issue for it."
+  },
   "respelling": "DAH-zine",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -2056,13 +2062,16 @@
   "context": "Dasein is not a mind looking out at a world of objects; it is from the start absorbed in a world of tasks and tools. The hyphens mark a single unified phenomenon. A hammer is first encountered in use, ready-to-hand, not as a thing with properties.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 12, p. 53",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Der zusammengesetzte Ausdruck »In-der-Welt-sein« zeigt schon in seiner Prägung an, daß mit ihm ein einheitliches Phänomen gemeint ist.",
+   "translation": "The compound expression 'being-in-the-world' shows in its very coinage that it stands for a unitary phenomenon."
+  },
   "respelling": "in-dair-VELT-zine",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -2094,13 +2103,16 @@
   "context": "Death is Dasein's ownmost possibility: no one can die my death for me. By facing it in anxiety rather than fleeing into 'they say everyone dies', Dasein can live authentically, owning its finite life.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 48, p. 245",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Der Tod ist eine Weise zu sein, die das Dasein übernimmt, sobald es ist.",
+   "translation": "Death is a way to be, which Dasein takes over as soon as it is."
+  },
   "respelling": "ZINE tsoom TOH-deh",
   "image": {
    "src": "img/p/heidegger.webp",

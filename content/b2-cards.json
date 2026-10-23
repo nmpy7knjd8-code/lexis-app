@@ -94,13 +94,16 @@
   "context": "The characteristic outlook of an age. Herder and others popularised the idea; Hegel held that philosophy is its own time comprehended in thought, so no thinker can leap beyond his age.",
   "person": "Herder · Hegel",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Grundlinien der Philosophie des Rechts",
+   "citation": "Preface",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan of the 1911 Lasson edition (OCR, fuzzy-matched)",
+  "quote": {
+   "text": "Was das Individuum betrifft, so ist ohnehin jedes ein Sohn seiner Zeit; so ist auch die Philosophie ihre Zeit in Gedanken erfaßt.",
+   "translation": "As for the individual, each is in any case a child of his time; so philosophy too is its own time comprehended in thought."
+  },
   "respelling": "TSITE-guyst",
   "image": {
    "src": "img/p/hegel.webp",
@@ -296,13 +299,16 @@
   "context": "A comprehensive outlook on life and the world. Kant coined the word for a sensory intuition of the world; Dilthey made it central, studying how religious, artistic and philosophical world-views arise from life. English borrowed it whole.",
   "person": "Dilthey",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Kritik der Urteilskraft",
+   "citation": "§ 26 (AA V, 255)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against korpora.org (Akademie-Ausgabe)",
+  "quote": {
+   "text": "dessen Idee eines Noumenons, welches selbst keine Anschauung verstattet, aber doch der Weltanschauung, als bloßer Erscheinung, zum Substrat untergelegt wird",
+   "translation": "the idea of a noumenon, which itself admits of no intuition but is laid down as the substrate of our intuition of the world as mere appearance."
+  },
   "respelling": "VELT-ahn-show-oong",
   "image": {
    "src": "img/p/dilthey.webp",
@@ -539,13 +545,16 @@
   "context": "Husserl's late work argues that science grows out of the pre-scientific world of everyday experience and then forgets it, treating its idealised models as more real than the world they came from. The Lebenswelt is the taken-for-granted horizon of all our meaning.",
   "person": "Husserl",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Die Krisis der europäischen Wissenschaften",
+   "citation": "§ 9h",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the quotation of Husserl (Meiner 1996 ed., p. 52) in Philosophy and Social Values 2019 (https://doi.org/10.34632/philosophyandsocialvalues.2019.9509)",
+  "quote": {
+   "text": "die wirklich wahrnehmungsmäßig gegebene … erfahrbare Welt – unsere alltägliche Lebenswelt",
+   "translation": "the world actually given in perception … the experienceable world: our everyday life-world."
+  },
   "respelling": "LAY-bens-velt",
   "image": {
    "src": "img/p/husserl.webp",
@@ -782,13 +791,16 @@
   "context": "Sartre's term for lying to oneself about one's freedom. The waiter who plays at being a waiter, as if it were his fixed nature, flees the anguish of choosing. Bad faith denies that we are always more than our roles and circumstances.",
   "person": "Sartre",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "L'Être et le néant",
+   "citation": "Part I, ch. 2, § II",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against L'Être et le néant, Gallimard 1943 (archive.org OCR, https://archive.org/details/sartreletreetleneant)",
+  "quote": {
+   "text": "Considérons ce garçon de café. … il joue à être garçon de café",
+   "translation": "Let us consider this café waiter. … he is playing at being a café waiter."
+  },
   "respelling": "moh-VEZ FWAH",
   "image": {
    "src": "img/p/sartre.webp",
@@ -820,13 +832,16 @@
   "context": "Sartre divides being into the en-soi, the solid, self-identical being of things, and the pour-soi, consciousness, which is a kind of nothingness: never coinciding with itself, always projecting beyond what it is. Hence 'existence precedes essence'.",
   "person": "Sartre",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "L'Être et le néant",
+   "citation": "Part IV, ch. 1",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against L'Être et le néant, Gallimard 1943 (archive.org OCR, https://archive.org/details/sartreletreetleneant)",
+  "quote": {
+   "text": "Dire que le pour-soi a à être ce qu'il est, dire qu'il est ce qu'il n'est pas en n'étant pas ce qu'il est",
+   "translation": "To say that the for-itself has to be what it is, to say that it is what it is not while not being what it is."
+  },
   "respelling": "poor-SWAH / ahn-SWAH",
   "image": {
    "src": "img/p/sartre.webp",
@@ -858,13 +873,16 @@
   "context": "Camus's absurd is the clash between our demand for meaning and the silent indifference of the world. Neither suicide nor religious hope answers it; the response is revolt, lucid life without appeal. 'One must imagine Sisyphus happy.'",
   "person": "Camus",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Le Mythe de Sisyphe",
+   "citation": "'Les murs absurdes'",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Le Mythe de Sisyphe, Gallimard (archive.org OCR, https://archive.org/details/le_mythe_de_sisyphe)",
+  "quote": {
+   "text": "L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde.",
+   "translation": "The absurd is born of this confrontation between the human call and the unreasonable silence of the world."
+  },
   "respelling": "lab-SOORD",
   "image": {
    "src": "img/p/camus.webp",
@@ -896,13 +914,16 @@
   "context": "In The Second Sex Beauvoir argues that man has made himself the Subject and woman the Other, defined only in relation to him. 'One is not born, but rather becomes, a woman': womanhood is a situation, not a fixed essence.",
   "person": "Beauvoir",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Le Deuxième Sexe II",
+   "citation": "Part I, ch. 1, opening",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Le Deuxième Sexe II, Gallimard (archive.org OCR, https://archive.org/details/le-deuxieme-sexe-tome-2-simone-de-beauvoir)",
+  "quote": {
+   "text": "On ne naît pas femme : on le devient.",
+   "translation": "One is not born, but rather becomes, a woman."
+  },
   "respelling": "LOH-truh",
   "image": {
    "src": "img/p/beauvoir.webp",
@@ -934,13 +955,16 @@
   "context": "Heidegger's hammer is first zuhanden: used without being noticed, part of a web of tasks. Only when it breaks does it become vorhanden, a mere object with properties to be stared at. Traditional philosophy, he argued, wrongly took present-at-hand things as the model of all being.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 15, p. 69",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Die Seinsart von Zeug, in der es sich von ihm selbst her offenbart, nennen wir die Zuhandenheit.",
+   "translation": "The kind of being of equipment, in which it manifests itself in its own right, we call readiness-to-hand."
+  },
   "respelling": "tsoo-HAHN-den / for-HAHN-den",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -972,13 +996,16 @@
   "context": "From German man, 'one' (as in 'one does not do that'). Everyday Dasein lives as das Man prescribes: reading, judging and enjoying 'as one does'. This anonymous public self relieves us of responsibility and hides our ownmost possibilities.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 27, p. 128",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Jeder ist der Andere und Keiner er selbst.",
+   "translation": "Everyone is the other, and no one is himself."
+  },
   "respelling": "dahs MAHN",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1010,13 +1037,16 @@
   "context": "From eigen, 'own'. Authentic Dasein takes over its existence as its own rather than drifting with das Man. Heidegger says inauthenticity is not a moral failing but our everyday condition; authenticity is a modified way of grasping it.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 9, p. 42",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Und weil Dasein wesenhaft je seine Möglichkeit ist, kann dieses Seiende in seinem Sein sich selbst »wählen«, gewinnen, es kann sich verlieren",
+   "translation": "And because Dasein is in each case essentially its possibility, it can, in its very being, 'choose' itself and win itself; it can also lose itself."
+  },
   "respelling": "EYE-gent-likh-kite",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1048,13 +1078,16 @@
   "context": "Dasein finds itself already thrown into a world, a body, a language and a history it did not choose. Thrownness is the 'that it is and has to be'; understanding projects possibilities on the basis of it.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 29, p. 135",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Diesen in seinem Woher und Wohin verhüllten, aber an ihm selbst um so unverhüllter erschlossenen Seinscharakter des Daseins, dieses »Daß es ist« nennen wir die Geworfenheit dieses Seienden in sein Da",
+   "translation": "This character of Dasein's being, veiled in its whence and whither but disclosed all the more unveiledly in itself, this 'that it is', we call the thrownness of this entity into its 'there'."
+  },
   "respelling": "geh-VOR-fen-hite",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1086,13 +1119,16 @@
   "context": "Heidegger names the being of Dasein care: being ahead of itself, already in a world, and alongside things it deals with. Care unifies existence, thrownness and absorption, and its meaning turns out to be temporality.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 41, p. 192",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Das Sein des Daseins besagt: Sich-vorweg-schon-sein-in-(der-Welt-) als Sein-bei (innerweltlich begegnendem Seienden).",
+   "translation": "The being of Dasein means: ahead-of-itself-already-being-in-(the-world) as being-alongside (entities encountered within the world)."
+  },
   "respelling": "ZOR-geh",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1124,13 +1160,16 @@
   "context": "In later Heidegger, the essence of modern technology is not machines but Gestell: a way of revealing that sets everything up as standing-reserve, resources on call. A river becomes a power supply. The danger is that humans come to see even themselves this way.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Identität und Differenz",
+   "citation": "'Der Satz der Identität' (1957)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the German text of Identität und Differenz in the bilingual Anthropos 1990 edition (archive.org OCR, https://archive.org/details/heidegger-martin.-identidad-y-diferencia-bilingue-esp.-aleman-ocr-1990, fuzzy-matched)",
+  "quote": {
+   "text": "Der Name für die Versammlung des Herausforderns, das Mensch und Sein einander so zu-stellt, daß sie sich wechselweise stellen, lautet: das Ge-Stell.",
+   "translation": "The name for the gathering of this challenge, which sets man and being upon each other so that they challenge each other in turn, is: the Ge-Stell."
+  },
   "respelling": "geh-SHTEL",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1162,13 +1201,16 @@
   "context": "Heidegger read the Greek word for truth as a-lētheia, 'un-forgetting' or 'un-concealment'. Truth is first not the correctness of statements but the event in which beings come out of hiddenness and show themselves. Classicists dispute the etymology, but the reading shaped later Heidegger.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 44, p. 219",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Seiendes – aus der Verborgenheit herausnehmend – in seiner Unverborgenheit (Entdecktheit) sehen lassen",
+   "translation": "letting entities be seen in their unconcealment (uncoveredness), taking them out of concealment."
+  },
   "respelling": "ah-LAY-thay-ah",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1200,13 +1242,16 @@
   "context": "Derrida's coinage, spelled with an a that can be seen but not heard in French. Meaning, he argues, is never fully present: each sign gets its sense from differences with other signs, and its final meaning is always deferred.",
   "person": "Derrida",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De la grammatologie",
+   "citation": "Minuit 1967, p. 38",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against De la grammatologie, Minuit 1967 (archive.org OCR, https://archive.org/details/jacques-derrida-de-la-grammatologie)",
+  "quote": {
+   "text": "la différance, concept économique désignant la production du différer, au double sens de ce mot.",
+   "translation": "différance, an economic concept designating the production of deferring/differing, in the double sense of that word."
+  },
   "respelling": "dee-fay-RAHNS",
   "image": {
    "src": "img/p/derrida.webp",
@@ -1320,13 +1365,16 @@
   "context": "Foucault borrowed the Greek word for the hidden set of rules that decides what can count as knowledge in an era. In The Order of Things he describes breaks between the Renaissance, Classical and modern epistemes, and predicts that 'man' may soon be erased 'like a face drawn in sand'.",
   "person": "Foucault",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Les Mots et les choses",
+   "citation": "ch. VI, p. 179",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Les Mots et les choses, Gallimard 1966 (archive.org OCR, https://archive.org/details/les-mots-et-les-choses-foucault_202504)",
+  "quote": {
+   "text": "Dans une culture et à un moment donné, il n'y a jamais qu'une épistémè, qui définit les conditions de possibilité de tout savoir.",
+   "translation": "In any given culture and at any given moment, there is only ever one episteme, which defines the conditions of possibility of all knowledge."
+  },
   "respelling": "ay-pee-stay-MEH",
   "image": {
    "src": "img/p/foucault.webp",
@@ -1358,13 +1406,16 @@
   "context": "Foucault's claim that power and knowledge are not opposites: institutions like prisons, clinics and schools produce knowledge about people, and that knowledge in turn makes new forms of control possible. Discipline creates the very individuals it governs.",
   "person": "Foucault",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Surveiller et punir",
+   "citation": "Part I, ch. 1, p. 32",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Surveiller et punir, Gallimard (archive.org OCR, https://archive.org/details/FoucaultMichelSurveillerEtPunirNaissanceDeLaPrison2004)",
+  "quote": {
+   "text": "pouvoir et savoir s'impliquent directement l'un l'autre",
+   "translation": "power and knowledge directly imply one another."
+  },
   "respelling": "poo-VWAHR sah-VWAHR",
   "image": {
    "src": "img/p/foucault.webp",
@@ -1396,13 +1447,16 @@
   "context": "For Levinas the face of the other person interrupts my self-centred world with an ethical demand: 'thou shalt not kill'. Ethics is first philosophy, prior to knowledge or ontology, and responsibility for the other is infinite.",
   "person": "Levinas",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Éthique et Infini",
+   "citation": "Livre de poche 1982, p. 80",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against French Wikiquote (https://fr.wikiquote.org/wiki/Emmanuel_Levinas), which cites the page",
+  "quote": {
+   "text": "le visage est ce qui nous interdit de tuer.",
+   "translation": "the face is what forbids us to kill."
+  },
   "respelling": "luh vee-ZAHZH",
   "image": {
    "src": "img/p/levinas.webp",
@@ -1434,13 +1488,16 @@
   "context": "Lévi-Strauss compared mythical thought to a bricoleur, a handyman who builds with whatever odds and ends are at hand, as opposed to an engineer who designs from a plan. Derrida later argued that all discourse is bricolage.",
   "person": "Lévi-Strauss",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "La Pensée sauvage",
+   "citation": "ch. 1, p. 27",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against La Pensée sauvage, Plon 1962 (archive.org OCR, https://archive.org/details/claude-levi-strauss-la-pensee-sauvage-plon-1962)",
+  "quote": {
+   "text": "la règle de son jeu est de toujours s'arranger avec les « moyens du bord »",
+   "translation": "the rule of his game is always to make do with 'whatever is at hand'."
+  },
   "respelling": "bree-koh-LAHZH",
   "image": {
    "src": "img/p/levi-strauss.webp",
@@ -1513,13 +1570,16 @@
   "context": "Frege noticed that 'the Morning Star' and 'the Evening Star' refer to the same thing, Venus, yet 'the Morning Star is the Evening Star' is informative. So expressions have both a Bedeutung (what they pick out) and a Sinn (the way they present it).",
   "person": "Frege",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Über Sinn und Bedeutung",
+   "citation": "1892, p. 26",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/frege_sinn_und_bedeutung (Zeitschrift für Philosophie und philosophische Kritik 100, 1892)",
+  "quote": {
+   "text": "Es liegt nun nahe, mit einem Zeichen (Namen, Wortverbindung, Schriftzeichen) außer dem Bezeichneten, was die Bedeutung des Zeichens heißen möge, noch das verbunden zu denken, was ich den Sinn des Zeichens nennen möchte, worin die Art des Gegebenseins enthalten ist.",
+   "translation": "It is natural to think of a sign (name, phrase, written mark) as connected not only with what it designates, which may be called its reference, but also with what I would like to call its sense, in which the mode of presentation is contained."
+  },
   "respelling": "ZIN oont beh-DOY-toong",
   "image": {
    "src": "img/p/frege.webp",
@@ -1850,15 +1910,15 @@
   },
   "respelling": "DAR-muh",
   "image": {
-   "src": "img/p/buddha.webp",
-   "alt": "Portrait of Buddha",
+   "src": "img/p/krishna-and-arjuna.webp",
+   "alt": "Krishna and Arjuna on the chariot (Indian painting, 18th–19th c.)",
    "kind": "painting",
    "aspect": "3:4",
    "transparent": false,
-   "license": "CC BY-SA 3.0",
-   "credit": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เพื่อการศึก · CC BY-SA 3.0 · via Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "license": "Public domain",
+   "credit": "Unknown artist · Public domain · via Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Krishna_and_Arjun_on_the_chariot,_Mahabharata,_18th-19th_century,_India.jpg",
+   "license_url": "",
    "modified": "cropped to 3:4, resized"
   },
   "learn_more": {
@@ -1961,13 +2021,16 @@
   "context": "Avicenna distinguished what a thing is (māhiyya) from the fact that it exists (wujūd). In all created things existence is added to essence; only in the Necessary Existent are they one. Through Latin translations this shaped Aquinas and the whole scholastic debate.",
   "person": "Avicenna",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "al-Shifāʾ: al-Ilāhiyyāt",
+   "citation": "I.5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against OpenITI corpus (0428IbnSina.ShifaIlahiyyat)",
+  "quote": {
+   "text": "فإن لكل أمر حقيقة هو بها ما هو، فالمثلث حقيقة أنه مثلث، وللبياض حقيقة أنه بياض، وذلك هو الذي ربما سميناه الوجود الخاص",
+   "translation": "For each thing has a reality by which it is what it is: the triangle has the reality of being a triangle, whiteness the reality of being whiteness; and this is what we have perhaps called its proper existence."
+  },
   "respelling": "woo-JOOD",
   "image": {
    "src": "img/p/avicenna.webp",
@@ -1999,13 +2062,16 @@
   "context": "Falsafa names the tradition of Arabic philosophy that absorbed Aristotle and Neoplatonism: al-Kindī, al-Fārābī, Avicenna, Averroes. Averroes' commentaries were so influential in Latin Europe that he was simply called 'the Commentator'.",
   "person": "Averroes",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Faṣl al-maqāl",
+   "citation": "opening",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against OpenITI corpus (0595IbnRushdHafid.FaslMaqal)",
+  "quote": {
+   "text": "أن نفحص، على جهة النظر الشرعي، هل النظر في الفلسفة وعلوم المنطق مباح بالشرع، أم محظور، أم مأمور به",
+   "translation": "[The aim of this treatise is] to examine, from the standpoint of religious law, whether the study of philosophy and the sciences of logic is permitted by the Law, forbidden, or commanded."
+  },
   "respelling": "FAL-sah-fah",
   "image": {
    "src": "img/p/averroes.webp",

@@ -381,13 +381,16 @@
   "context": "The principle of parsimony known as Ockham's razor: do not posit more things than needed to explain the facts. This exact Latin wording is a later formulation (John Punch, 1639); Ockham's own versions read 'plurality is not to be posited without necessity'.",
   "person": "William of Ockham",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Expositio in librum Praedicamentorum",
+   "citation": "on quantity (OPh II, p. 210)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/william-of-ockham-opera-philosophica-vol-2",
+  "quote": {
+   "text": "ipsa substantia sine omni alia re absoluta, totaliter distincta, formaliter inhaerente, est quanta et corpus. Igitur superfluum est talem rem aliam ponere sibi inhaerentem.",
+   "translation": "substance itself, without any other absolute thing wholly distinct from it and formally inhering in it, is quantified and a body. So it is superfluous to posit such another thing inhering in it."
+  },
   "respelling": "EN-tee-ah nohn soont mool-tih-plih-KAN-dah",
   "image": {
    "src": "img/p/ockham.webp",
@@ -419,13 +422,16 @@
   "context": "Do 'humanity' or 'redness' exist apart from individual humans and red things? Realists said yes; nominalists like Ockham said universals are only names or concepts. The medieval quarrel over universals began with Boethius' Latin commentary on Porphyry.",
   "person": "Boethius · Ockham",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "In Isagogen Porphyrii, ed. secunda",
+   "citation": "I.11 (CSEL 48, p. 167)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/aniciimanliiseue48boet (CSEL 48)",
+  "quote": {
+   "text": "ipsa enim genera et species subsistunt quidem alio modo, intelleguntur uero alio, et sunt incorporalia, sed sensibilibus iuncta subsistunt in sensibilibus",
+   "translation": "genera and species themselves subsist in one way but are understood in another; they are incorporeal, yet, joined to sensible things, they subsist in sensible things."
+  },
   "respelling": "oo-nee-wer-SAH-lee-ah",
   "image": {
    "src": "img/p/ockham.webp",
@@ -498,13 +504,16 @@
   "context": "Genesis says humans were made in the image of God. Augustine located the image in the mind's trinity of memory, understanding and will; Aquinas in the rational soul. The idea grounded medieval and later claims about human dignity.",
   "person": "Augustine",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De Trinitate",
+   "citation": "XIV.8.11",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against augustinus.it (Latin text)",
+  "quote": {
+   "text": "Ecce ergo mens meminit sui, intellegit se, diligit se: hoc si cernimus, cernimus trinitatem; nondum quidem Deum, sed iam imaginem Dei.",
+   "translation": "See, then: the mind remembers itself, understands itself, loves itself. If we discern this, we discern a trinity: not yet God, but already the image of God."
+  },
   "respelling": "ih-MAH-goh DAY-ee",
   "image": {
    "src": "img/p/augustine.webp",
@@ -1315,13 +1324,16 @@
   "context": "For Marx a class becomes a historical actor only when its members understand their shared interests: a class 'for itself' rather than merely 'in itself'. Lukács developed the idea in History and Class Consciousness (1923).",
   "person": "Marx · Lukács",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Misère de la philosophie",
+   "citation": "ch. II, § 5",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against French Wikisource (1847 edition)",
+  "quote": {
+   "text": "Ainsi cette masse est déjà une classe vis-à-vis du capital, mais pas encore pour elle-même. Dans la lutte, … cette masse se réunit, elle se constitue en classe pour elle-même.",
+   "translation": "Thus this mass is already a class as against capital, but not yet for itself. In the struggle … this mass unites and constitutes itself as a class for itself."
+  },
   "respelling": "KLAHS-sen-beh-voost-zine",
   "image": {
    "src": "img/p/marx.webp",
@@ -1353,13 +1365,16 @@
   "context": "Husserl borrowed two Greek words to analyse every experience: the noesis is the act (perceiving, remembering, imagining), the noema the object exactly as it is meant in that act. A tree perceived and the same tree remembered share an object but differ in noema.",
   "person": "Husserl",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Ideen I",
+   "citation": "§ 88",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/jppf1.1 (Jahrbuch für Philosophie und phänomenologische Forschung I, 1913)",
+  "quote": {
+   "text": "Überall entspricht den mannigfaltigen Daten des reellen, noetischen Gehaltes eine Mannigfaltigkeit in wirklich reiner Intuition aufweisbarer Daten … Die Wahrnehmung z. B. hat ihr Noema",
+   "translation": "Everywhere the manifold data of the real, noetic content correspond to a manifold of data demonstrable in actually pure intuition … Perception, for example, has its noema."
+  },
   "respelling": "NOH-ay-sis / NOH-ay-mah",
   "image": {
    "src": "img/p/husserl.webp",
@@ -1391,13 +1406,16 @@
   "context": "Sartre's formula for existentialism: a paper-knife is made to a plan, but there is no God to design human nature. We exist first and define ourselves afterwards by our choices, so we are 'condemned to be free'.",
   "person": "Sartre",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "L'existentialisme est un humanisme",
+   "citation": "Nagel 1970, p. 17",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against French Wikiquote (https://fr.wikiquote.org/wiki/Jean-Paul_Sartre), which cites the page",
+  "quote": {
+   "text": "L'existence précède l'essence.",
+   "translation": "Existence precedes essence."
+  },
   "respelling": "leg-zee-STAHNS pray-SED leh-SAHNS",
   "image": {
    "src": "img/p/sartre.webp",
@@ -1429,13 +1447,16 @@
   "context": "Heidegger pictures truth as a clearing in the forest, an open space in which beings can show themselves. Dasein stands in the clearing; it does not make it. The image replaces the Enlightenment idea of light shed by reason.",
   "person": "Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Sein und Zeit",
+   "citation": "§ 28, p. 133",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Niemeyer edition of Sein und Zeit (archive.org OCR, https://archive.org/details/sein_und_zeit, fuzzy-matched)",
+  "quote": {
+   "text": "Es ist »erleuchtet«, besagt: an ihm selbst als In-der-Welt-sein gelichtet, nicht durch ein anderes Seiendes, sondern so, daß es selbst die Lichtung ist.",
+   "translation": "To say it is 'illuminated' means: lit up in itself as being-in-the-world, not by some other entity, but in such a way that it is itself the clearing."
+  },
   "respelling": "LIKH-toong",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1467,13 +1488,16 @@
   "context": "Taken from Meister Eckhart, the word names for late Heidegger a calm openness toward things: using technology without being enslaved by it, saying yes and no to it at once, and waiting for meaning rather than seizing it.",
   "person": "Meister Eckhart · Heidegger",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Predigt XCVI",
+   "citation": "Pfeiffer, Deutsche Mystiker II, p. 312",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/deutschemystiker02pfei (Pfeiffer, Deutsche Mystiker II, 1857)",
+  "quote": {
+   "text": "Der mensche, der gelâzen hât unde gelâzen ist unde nie mêr gesiht einen blik ûf daz, daz er gelâzen hât, unde stæte und unbewegt blîbet und unwandellîche in ime selber, der mensche ist alleine gelâzen.",
+   "translation": "The person who has let go and is let go, and never again casts a glance at what he has let go, and stays steady, unmoved and unchanging in himself: that person alone is released."
+  },
   "respelling": "geh-LAHS-sen-hite",
   "image": {
    "src": "img/p/heidegger.webp",
@@ -1505,13 +1529,16 @@
   "context": "Baudrillard argued that in media-saturated societies signs no longer refer to a reality: they refer to other signs, producing a hyperreality more real than the real. Deleuze had used the term for copies that overturn Plato's priority of the original.",
   "person": "Baudrillard",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Simulacres et simulation",
+   "citation": "Galilée 1981, p. 9 (epigraph)",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Simulacres et simulation, Galilée 1981 (archive.org OCR, https://archive.org/details/baudrillard-jean-1981-simulacres-et-simulation)",
+  "quote": {
+   "text": "Le simulacre n'est jamais ce qui cache la vérité – c'est la vérité qui cache qu'il n'y en a pas. Le simulacre est vrai.",
+   "translation": "The simulacrum is never what hides the truth: it is the truth that hides that there is none. The simulacrum is true."
+  },
   "respelling": "see-moo-LAHKR",
   "image": {
    "src": "img/p/baudrillard.webp",
@@ -1543,13 +1570,16 @@
   "context": "Derrida's practice of reading texts to show how their key oppositions, such as speech/writing or presence/absence, undo themselves: the privileged term depends on what it excludes. It is not destruction but a patient attention to what a text cannot master.",
   "person": "Derrida",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "De la grammatologie",
+   "citation": "Minuit 1967, p. 227",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against De la grammatologie, Minuit 1967 (archive.org OCR, https://archive.org/details/jacques-derrida-de-la-grammatologie)",
+  "quote": {
+   "text": "Il n'y a pas de hors-texte.",
+   "translation": "There is no outside-text."
+  },
   "respelling": "day-kohn-strook-SYOHN",
   "image": {
    "src": "img/p/derrida.webp",
@@ -1581,13 +1611,16 @@
   "context": "An Aristotelian-scholastic word (Latin for Greek hexis) revived by Bourdieu for the embodied dispositions a social class instils: tastes, gestures and expectations that feel natural but reproduce social structures.",
   "person": "Aristotle · Bourdieu",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Esquisse d'une théorie de la pratique",
+   "citation": "'Structures, habitus et pratiques'",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Esquisse d'une théorie de la pratique, Droz 1972 (archive.org OCR, https://archive.org/details/pierre-bourdieu-esquisse-dune-theorie-de-la-pratique-precede-de-trois-etudes-det)",
+  "quote": {
+   "text": "habitus, systèmes de dispositions durables, structures structurées prédisposées à fonctionner comme structures structurantes",
+   "translation": "habitus: systems of durable dispositions, structured structures predisposed to function as structuring structures."
+  },
   "respelling": "HAH-bih-toos",
   "image": {
    "src": "img/p/bourdieu.webp",
@@ -1619,13 +1652,16 @@
   "context": "Lacan's term for an excessive enjoyment that goes past the pleasure principle into pain. Barthes used it for the unsettling bliss of reading a text that breaks one's cultural assumptions, as opposed to the comfortable plaisir of the familiar.",
   "person": "Lacan · Barthes",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Écrits",
+   "citation": "'Subversion du sujet', p. 821",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against Écrits, Seuil 1966 (archive.org OCR, https://archive.org/details/ecrits-jacques-lacan-1966)",
+  "quote": {
+   "text": "la jouissance est interdite à qui parle comme tel, ou encore qu'elle ne puisse être dite qu'entre les lignes pour quiconque est sujet de la Loi",
+   "translation": "jouissance is forbidden to whoever speaks as such, or else it can be said only between the lines by whoever is subject of the Law."
+  },
   "respelling": "zhwee-SAHNS",
   "image": {
    "src": "img/p/lacan.webp",
@@ -1739,13 +1775,16 @@
   "context": "A group of philosophers and scientists around Moritz Schlick in 1920s Vienna, including Carnap and Neurath. Their logical positivism held that a statement is meaningful only if it can be verified empirically or is true by logic, so metaphysics is nonsense.",
   "person": "Schlick · Carnap",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Wissenschaftliche Weltauffassung. Der Wiener Kreis",
+   "citation": "1929, § II",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Short quotation (fair use) from a copyrighted work; wording checked against the Carnap Project transcription of the 1929 pamphlet (https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1929-5.pdf)",
+  "quote": {
+   "text": "Die wissenschaftliche Weltauffassung kennt keine unlösbaren Rätsel.",
+   "translation": "The scientific world-conception knows no unsolvable riddles."
+  },
   "respelling": "VEE-ner KRICE",
   "image": {
    "src": "img/p/schlick.webp",
@@ -1777,13 +1816,16 @@
   "context": "Frege's 1879 formal language for pure thought, which introduced quantifiers and modern predicate logic. He aimed to show that arithmetic rests on logic alone. It is often called the most important single work in the history of logic.",
   "person": "Frege",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Begriffsschrift",
+   "citation": "1879, Preface",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked against archive.org scan (OCR, fuzzy-matched): https://archive.org/details/11388662 (Begriffsschrift, Halle 1879)",
+  "quote": {
+   "text": "Hieraus ergab sich auch der Name „Begriffsschrift\".",
+   "translation": "Hence too the name 'concept-script'."
+  },
   "respelling": "beh-GRIFFS-shrift",
   "image": {
    "src": "img/p/frege.webp",
@@ -1815,13 +1857,16 @@
   "context": "Look at the duck-rabbit: nothing in the drawing changes, yet suddenly you see a rabbit where you saw a duck. Wittgenstein used such 'aspect dawning' to explore how seeing is bound up with interpretation and concepts.",
   "person": "Wittgenstein",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Philosophische Untersuchungen",
+   "citation": "§ 536",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against The Wittgenstein Project (German text of the 1953 edition)",
+  "quote": {
+   "text": "Dieses Gesicht (das den Eindruck der Furchtsamkeit macht) kann ich mir auch als ein mutiges denken. … Ich rede vielmehr von einem Aspekt des Gesichtes selbst.",
+   "translation": "I can also think of this face (which gives an impression of timidity) as a courageous one. … Rather, I am speaking of an aspect of the face itself."
+  },
   "respelling": "ah-SPEKT-zay-en",
   "image": {
    "src": "img/p/wittgenstein.webp",
@@ -2017,13 +2062,16 @@
   "context": "Al-Ghazālī's Incoherence of the Philosophers attacked Avicenna's Aristotelian claims, such as the eternity of the world and necessary causation; fire does not burn cotton of itself, God creates the burning. Averroes replied with The Incoherence of the Incoherence.",
   "person": "al-Ghazālī · Averroes",
   "source": {
-   "work": "",
-   "citation": "",
+   "work": "Tahāfut al-falāsifa",
+   "citation": "17th discussion",
    "date": ""
   },
-  "attribution_confidence": "",
-  "attribution_note": "",
-  "quote": null,
+  "attribution_confidence": "verified",
+  "attribution_note": "Quote checked verbatim against OpenITI corpus (0505Ghazali.Tahafut)",
+  "quote": {
+   "text": "الاقتران بين ما يعتقد في العادة سببا وما يعتقد مسببا ليس ضروريا عندنا",
+   "translation": "The connection between what is customarily believed to be a cause and what is believed to be an effect is not necessary, in our view."
+  },
   "respelling": "tah-HAH-foot",
   "image": {
    "src": "img/p/ghazali.webp",

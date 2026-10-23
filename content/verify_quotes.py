@@ -32,7 +32,7 @@ def check(cards):
         if not q: continue
         hay=clean(open(SRC+q[4]+".n").read())
         parts=q[0].split(" … ")  # an elided quote: every part must be found, in order
-        if q[4].startswith("ia_"): ok=all(fuzzy_in(p,hay) for p in parts)
+        if "ia_" in q[4]: ok=all(_fold(p) and fuzzy_in(p,hay) for p in parts)  # OCR scans (ia_*, fair_ia_*); a part that folds to nothing (non-Latin script) fails
         else:
             pos=0; ok=True
             for p in parts:
