@@ -21,6 +21,17 @@ for f in sorted(glob.glob("content/*-cards.json")):
         if not os.path.exists("content/"+c["image"]["src"]): e.append("missing image")
         if e: bad+=1;print(f"  {f}:{c['id']}: {e}")
 print(f"schema+lint: {n-bad}/{n} cards valid")
+# every section in the picker needs a background: UNITS era class must be themed by a selector that applies to the picker button (not only .card.X)
+H=open("cards/index.html").read();css=" ".join(re.findall(r"<style[^>]*>(.*?)</style>",H,re.S))
+units=json.loads(re.search(r"const UNITS=(\[.*?\]\]);",H).group(1))
+themed=set()
+for sel,body in re.findall(r"([^{}]+)\{([^{}]*--bg:[^{}]*)\}",css):
+    for one in sel.split(","):
+        m=re.fullmatch(r"\s*(?:\.path\s+button)?\.([\w-]+)\s*",one)
+        if m: themed.add(m.group(1))
+for u in units:
+    if u[3] not in themed: bad+=1;print(f"  section {u[0]} ({u[2]}): class '{u[3]}' has no --bg for the section picker button, it renders invisible")
+print(f"sections: {len(units)} checked")
 files=subprocess.run(["git","ls-files","-co","--exclude-standard","cards","content"],capture_output=True,text=True).stdout.split()
 json.dump(sorted(p for p in files if p.lower().endswith((".webp",".png",".jpg",".svg"))),open("cards/manifest.json","w"),indent=0)
 sys.exit(1 if bad and "--strict" in sys.argv else 0)

@@ -10,6 +10,10 @@ SHOTS=os.environ.get("SHOTS")
 with sync_playwright() as p:
     b=p.chromium.launch(executable_path="/usr/bin/google-chrome"); pg=b.new_context(viewport={"width":W,"height":H},device_scale_factor=2,is_mobile=True,has_touch=True).new_page()
     pg.goto(U); pg.wait_for_timeout(1800)
+    pg.evaluate("openSheet()"); pg.wait_for_timeout(300)
+    invis=pg.evaluate("[...document.querySelectorAll('#path button')].filter(b=>{const s=getComputedStyle(b),r=b.getBoundingClientRect();return s.backgroundImage==='none'&&/rgba\\(0, 0, 0, 0\\)|transparent/.test(s.backgroundColor)||r.width<20||r.height<20}).map(b=>'section '+b.dataset.u)")
+    print(W,H,"sections",pg.evaluate("document.querySelectorAll('#path button').length"),"invisible_sections",invis)
+    pg.evaluate("document.getElementById('sheet').hidden=true")
     bad=[];tot=0;hbad=[];clamped=[]
     for u in range(1,pg.evaluate("UNITS.length")+1):
         pg.evaluate(f"setSec({u})"); pg.wait_for_timeout(300)
