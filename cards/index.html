@@ -368,7 +368,7 @@ function go(d){const n=VIS().length;let i=Math.max(0,Math.min(n-1,curI+d));const
 let curI=0;
 document.getElementById("prev").onclick=()=>go(-1);document.getElementById("next").onclick=()=>go(1);
 document.addEventListener("keydown",e=>{if(e.key==="ArrowRight")go(1);if(e.key==="ArrowLeft")go(-1)});
-const DECKS=["b1-cards","b2-cards","b3-cards","b4-cards"];
+const DECKS=["b1-cards","b2-cards","b3-cards","b4-cards","b5-cards"];
 async function loadAll(){
  const norm=c=>{c=Object.assign({},c);
   c._src=!!(c.source&&(c.source.work||c.source.citation));
